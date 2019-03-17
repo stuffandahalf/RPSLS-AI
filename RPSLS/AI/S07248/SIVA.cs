@@ -173,28 +173,30 @@ namespace RPSLS
             {
                 int firstIndex = recentMoves.Newest - patternLength;    // if any of the starting indices are negative, wrap back the circular array
                 Console.WriteLine(firstIndex);
-                int secondIndex = firstIndex - patternLength;
-                Console.WriteLine(secondIndex);
-                if (firstIndex < 0) 
+                if (firstIndex < 0)
                 {
                     firstIndex += recentMoves.Array.Length;
                 }
+                Console.WriteLine(firstIndex);
+
+                int secondIndex = firstIndex - patternLength;
+                Console.WriteLine(secondIndex);
                 if (secondIndex < 0)
                 {
                     secondIndex += recentMoves.Array.Length;
                 }
-                Console.WriteLine(firstIndex);
                 Console.WriteLine(secondIndex);
 
                 bool isEqual = true;    // true when pattern is found
                 for (int i = 0; i < patternLength; i++)
                 {
-                    int i1 = i + firstIndex;    
-                    int i2 = i + secondIndex;
+                    int i1 = i + firstIndex;
                     if (i1 >= recentMoves.Array.Length)     // checking for indices larger than the array length
                     {
                         i1 -= recentMoves.Array.Length;
                     }
+
+                    int i2 = i + secondIndex;
                     if (i2 >= recentMoves.Array.Length)
                     {
                         i2 -= recentMoves.Array.Length;
