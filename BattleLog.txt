@@ -1,0 +1,2120 @@
+Battle 1 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :) and Trickster both played Scissors.
+Round 2: Trickster's Paper beats Patrick :)'s Spock.
+Round 3: Trickster's Rock beats Patrick :)'s Lizard.
+Round 4: Patrick :)'s Rock beats Trickster's Lizard.
+Round 5: Patrick :)'s Paper beats Trickster's Spock.
+Round 6: Patrick :) and Trickster both played Scissors.
+Round 7: Trickster's Paper beats Patrick :)'s Spock.
+Round 8: Patrick :)'s Paper beats Trickster's Rock.
+Round 9: Patrick :)'s Rock beats Trickster's Lizard.
+Round 10: Patrick :)'s Lizard beats Trickster's Spock.
+Round 11: Patrick :)'s Spock beats Trickster's Scissors.
+Round 12: Patrick :)'s Scissors beats Trickster's Paper.
+Round 13: Trickster's Rock beats Patrick :)'s Scissors.
+Round 14: Patrick :) and Trickster both played Lizard.
+Round 15: Trickster's Spock beats Patrick :)'s Rock.
+Round 16: Trickster's Scissors beats Patrick :)'s Paper.
+Round 17: Patrick :)'s Scissors beats Trickster's Paper.
+Round 18: Patrick :)'s Paper beats Trickster's Rock.
+Round 19: Trickster's Lizard beats Patrick :)'s Paper.
+Round 20: Trickster's Spock beats Patrick :)'s Scissors.
+Round 21: Patrick :)'s Spock beats Trickster's Scissors.
+Round 22: Patrick :)'s Lizard beats Trickster's Paper.
+Round 23: Patrick :)'s Paper beats Trickster's Rock.
+Round 24: Patrick :)'s Rock beats Trickster's Lizard.
+Round 25: Trickster's Spock beats Patrick :)'s Rock.
+Round 26: Patrick :)'s Spock beats Trickster's Scissors.
+Round 27: Trickster's Paper beats Patrick :)'s Rock.
+Round 28: Patrick :)'s Paper beats Trickster's Rock.
+Round 29: Patrick :)'s Rock beats Trickster's Lizard.
+Round 30: Patrick :)'s Lizard beats Trickster's Spock.
+Round 31: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 32: Patrick :) and Trickster both played Paper.
+Round 33: Patrick :)'s Paper beats Trickster's Rock.
+Round 34: Patrick :)'s Rock beats Trickster's Lizard.
+Round 35: Patrick :)'s Lizard beats Trickster's Spock.
+Round 36: Patrick :)'s Spock beats Trickster's Scissors.
+Round 37: Trickster's Paper beats Patrick :)'s Spock.
+Round 38: Patrick :)'s Paper beats Trickster's Rock.
+Round 39: Patrick :)'s Rock beats Trickster's Lizard.
+Round 40: Patrick :)'s Lizard beats Trickster's Spock.
+Round 41: Patrick :)'s Spock beats Trickster's Scissors.
+Round 42: Patrick :)'s Scissors beats Trickster's Paper.
+Round 43: Trickster's Rock beats Patrick :)'s Scissors.
+Round 44: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 45: Patrick :) and Trickster both played Spock.
+Round 46: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 47: Patrick :)'s Scissors beats Trickster's Paper.
+Round 48: Patrick :)'s Paper beats Trickster's Rock.
+Round 49: Trickster's Lizard beats Patrick :)'s Paper.
+Round 50: Trickster's Spock beats Patrick :)'s Rock.
+Round 51: Trickster's Scissors beats Patrick :)'s Paper.
+Round 52: Patrick :)'s Scissors beats Trickster's Paper.
+Round 53: Patrick :)'s Paper beats Trickster's Rock.
+Round 54: Patrick :)'s Rock beats Trickster's Lizard.
+Round 55: Trickster's Spock beats Patrick :)'s Rock.
+Round 56: Patrick :)'s Spock beats Trickster's Scissors.
+Round 57: Trickster's Paper beats Patrick :)'s Spock.
+Round 58: Patrick :)'s Paper beats Trickster's Rock.
+Round 59: Patrick :)'s Rock beats Trickster's Lizard.
+Round 60: Patrick :)'s Lizard beats Trickster's Spock.
+Round 61: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 62: Patrick :)'s Lizard beats Trickster's Paper.
+Round 63: Patrick :)'s Paper beats Trickster's Rock.
+Round 64: Patrick :)'s Rock beats Trickster's Lizard.
+Round 65: Patrick :)'s Lizard beats Trickster's Spock.
+Round 66: Patrick :)'s Spock beats Trickster's Scissors.
+Round 67: Trickster's Paper beats Patrick :)'s Spock.
+Round 68: Patrick :)'s Paper beats Trickster's Rock.
+Round 69: Patrick :)'s Rock beats Trickster's Lizard.
+Round 70: Patrick :)'s Lizard beats Trickster's Spock.
+Round 71: Patrick :)'s Spock beats Trickster's Scissors.
+Round 72: Patrick :)'s Scissors beats Trickster's Paper.
+Round 73: Trickster's Rock beats Patrick :)'s Scissors.
+Round 74: Patrick :)'s Rock beats Trickster's Lizard.
+Round 75: Patrick :)'s Paper beats Trickster's Spock.
+Round 76: Patrick :) and Trickster both played Scissors.
+Round 77: Patrick :)'s Scissors beats Trickster's Paper.
+Round 78: Patrick :)'s Paper beats Trickster's Rock.
+Round 79: Trickster's Lizard beats Patrick :)'s Paper.
+Round 80: Patrick :) and Trickster both played Spock.
+Round 81: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 82: Trickster's Paper beats Patrick :)'s Rock.
+Round 83: Patrick :)'s Paper beats Trickster's Rock.
+Round 84: Patrick :)'s Rock beats Trickster's Lizard.
+Round 85: Trickster's Spock beats Patrick :)'s Rock.
+Round 86: Patrick :)'s Spock beats Trickster's Scissors.
+Round 87: Patrick :) and Trickster both played Paper.
+Round 88: Patrick :)'s Paper beats Trickster's Rock.
+Round 89: Patrick :)'s Rock beats Trickster's Lizard.
+Round 90: Patrick :)'s Lizard beats Trickster's Spock.
+Round 91: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 92: Patrick :)'s Scissors beats Trickster's Paper.
+Round 93: Patrick :)'s Paper beats Trickster's Rock.
+Round 94: Patrick :)'s Rock beats Trickster's Lizard.
+Round 95: Patrick :)'s Lizard beats Trickster's Spock.
+Round 96: Patrick :)'s Spock beats Trickster's Scissors.
+Round 97: Trickster's Paper beats Patrick :)'s Spock.
+Round 98: Patrick :)'s Paper beats Trickster's Rock.
+Round 99: Patrick :)'s Rock beats Trickster's Lizard.
+Round 100: Patrick :)'s Lizard beats Trickster's Spock.
+Patrick :) won 64 rounds and Trickster won 28 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 2 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 2: Patrick :) and Trickster both played Spock.
+Round 3: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 4: Trickster's Paper beats Patrick :)'s Rock.
+Round 5: Patrick :)'s Paper beats Trickster's Rock.
+Round 6: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 7: Patrick :) and Trickster both played Spock.
+Round 8: Patrick :)'s Spock beats Trickster's Scissors.
+Round 9: Patrick :)'s Lizard beats Trickster's Paper.
+Round 10: Patrick :)'s Paper beats Trickster's Rock.
+Round 11: Patrick :)'s Rock beats Trickster's Lizard.
+Round 12: Patrick :)'s Lizard beats Trickster's Spock.
+Round 13: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 14: Trickster's Paper beats Patrick :)'s Rock.
+Round 15: Patrick :)'s Paper beats Trickster's Rock.
+Round 16: Patrick :)'s Rock beats Trickster's Lizard.
+Round 17: Patrick :)'s Lizard beats Trickster's Spock.
+Round 18: Patrick :)'s Spock beats Trickster's Scissors.
+Round 19: Trickster's Paper beats Patrick :)'s Spock.
+Round 20: Patrick :)'s Paper beats Trickster's Rock.
+Round 21: Patrick :)'s Rock beats Trickster's Lizard.
+Round 22: Patrick :)'s Lizard beats Trickster's Spock.
+Round 23: Patrick :)'s Spock beats Trickster's Scissors.
+Round 24: Patrick :)'s Scissors beats Trickster's Paper.
+Round 25: Trickster's Rock beats Patrick :)'s Scissors.
+Round 26: Trickster's Lizard beats Patrick :)'s Paper.
+Round 27: Trickster's Spock beats Patrick :)'s Scissors.
+Round 28: Patrick :)'s Spock beats Trickster's Scissors.
+Round 29: Patrick :)'s Scissors beats Trickster's Paper.
+Round 30: Patrick :)'s Paper beats Trickster's Rock.
+Round 31: Trickster's Lizard beats Patrick :)'s Paper.
+Round 32: Patrick :)'s Lizard beats Trickster's Spock.
+Round 33: Patrick :)'s Rock beats Trickster's Scissors.
+Round 34: Patrick :) and Trickster both played Paper.
+Round 35: Patrick :)'s Paper beats Trickster's Rock.
+Round 36: Patrick :)'s Rock beats Trickster's Lizard.
+Round 37: Trickster's Spock beats Patrick :)'s Rock.
+Round 38: Patrick :)'s Spock beats Trickster's Scissors.
+Round 39: Patrick :)'s Scissors beats Trickster's Paper.
+Round 40: Patrick :)'s Paper beats Trickster's Rock.
+Round 41: Patrick :)'s Rock beats Trickster's Lizard.
+Round 42: Patrick :)'s Lizard beats Trickster's Spock.
+Round 43: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 44: Trickster's Paper beats Patrick :)'s Spock.
+Round 45: Patrick :)'s Paper beats Trickster's Rock.
+Round 46: Patrick :)'s Rock beats Trickster's Lizard.
+Round 47: Patrick :)'s Lizard beats Trickster's Spock.
+Round 48: Patrick :)'s Spock beats Trickster's Scissors.
+Round 49: Trickster's Paper beats Patrick :)'s Spock.
+Round 50: Patrick :)'s Paper beats Trickster's Rock.
+Round 51: Patrick :)'s Rock beats Trickster's Lizard.
+Round 52: Patrick :)'s Lizard beats Trickster's Spock.
+Round 53: Patrick :)'s Spock beats Trickster's Scissors.
+Round 54: Patrick :)'s Scissors beats Trickster's Paper.
+Round 55: Trickster's Rock beats Patrick :)'s Scissors.
+Round 56: Patrick :) and Trickster both played Lizard.
+Round 57: Trickster's Spock beats Patrick :)'s Rock.
+Round 58: Trickster's Scissors beats Patrick :)'s Paper.
+Round 59: Patrick :)'s Scissors beats Trickster's Paper.
+Round 60: Patrick :)'s Paper beats Trickster's Rock.
+Round 61: Trickster's Lizard beats Patrick :)'s Paper.
+Round 62: Trickster's Spock beats Patrick :)'s Scissors.
+Round 63: Patrick :)'s Spock beats Trickster's Scissors.
+Round 64: Patrick :)'s Lizard beats Trickster's Paper.
+Round 65: Patrick :)'s Paper beats Trickster's Rock.
+Round 66: Patrick :)'s Rock beats Trickster's Lizard.
+Round 67: Trickster's Spock beats Patrick :)'s Rock.
+Round 68: Patrick :)'s Spock beats Trickster's Scissors.
+Round 69: Trickster's Paper beats Patrick :)'s Rock.
+Round 70: Patrick :)'s Paper beats Trickster's Rock.
+Round 71: Patrick :)'s Rock beats Trickster's Lizard.
+Round 72: Patrick :)'s Lizard beats Trickster's Spock.
+Round 73: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 74: Patrick :) and Trickster both played Paper.
+Round 75: Patrick :)'s Paper beats Trickster's Rock.
+Round 76: Patrick :)'s Rock beats Trickster's Lizard.
+Round 77: Patrick :)'s Lizard beats Trickster's Spock.
+Round 78: Patrick :)'s Spock beats Trickster's Scissors.
+Round 79: Trickster's Paper beats Patrick :)'s Spock.
+Round 80: Patrick :)'s Paper beats Trickster's Rock.
+Round 81: Patrick :)'s Rock beats Trickster's Lizard.
+Round 82: Patrick :)'s Lizard beats Trickster's Spock.
+Round 83: Patrick :)'s Spock beats Trickster's Scissors.
+Round 84: Patrick :)'s Scissors beats Trickster's Paper.
+Round 85: Trickster's Rock beats Patrick :)'s Scissors.
+Round 86: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 87: Patrick :) and Trickster both played Spock.
+Round 88: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 89: Patrick :)'s Scissors beats Trickster's Paper.
+Round 90: Patrick :)'s Paper beats Trickster's Rock.
+Round 91: Trickster's Lizard beats Patrick :)'s Paper.
+Round 92: Trickster's Spock beats Patrick :)'s Rock.
+Round 93: Trickster's Scissors beats Patrick :)'s Paper.
+Round 94: Patrick :)'s Scissors beats Trickster's Paper.
+Round 95: Patrick :)'s Paper beats Trickster's Rock.
+Round 96: Patrick :)'s Rock beats Trickster's Lizard.
+Round 97: Trickster's Spock beats Patrick :)'s Rock.
+Round 98: Patrick :)'s Spock beats Trickster's Scissors.
+Round 99: Trickster's Paper beats Patrick :)'s Spock.
+Round 100: Patrick :)'s Paper beats Trickster's Rock.
+Patrick :) won 65 rounds and Trickster won 29 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 3 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :)'s Scissors beats Trickster's Paper.
+Round 2: Patrick :)'s Spock beats Trickster's Rock.
+Round 3: Patrick :) and Trickster both played Lizard.
+Round 4: Trickster's Spock beats Patrick :)'s Rock.
+Round 5: Trickster's Scissors beats Patrick :)'s Paper.
+Round 6: Patrick :)'s Scissors beats Trickster's Paper.
+Round 7: Patrick :)'s Spock beats Trickster's Rock.
+Round 8: Patrick :) and Trickster both played Lizard.
+Round 9: Trickster's Spock beats Patrick :)'s Rock.
+Round 10: Trickster's Scissors beats Patrick :)'s Paper.
+Round 11: Patrick :)'s Scissors beats Trickster's Paper.
+Round 12: Patrick :)'s Paper beats Trickster's Rock.
+Round 13: Trickster's Lizard beats Patrick :)'s Paper.
+Round 14: Trickster's Spock beats Patrick :)'s Scissors.
+Round 15: Patrick :)'s Spock beats Trickster's Scissors.
+Round 16: Patrick :)'s Lizard beats Trickster's Paper.
+Round 17: Patrick :)'s Paper beats Trickster's Rock.
+Round 18: Patrick :)'s Rock beats Trickster's Lizard.
+Round 19: Trickster's Spock beats Patrick :)'s Rock.
+Round 20: Patrick :)'s Spock beats Trickster's Scissors.
+Round 21: Trickster's Paper beats Patrick :)'s Rock.
+Round 22: Patrick :)'s Paper beats Trickster's Rock.
+Round 23: Patrick :)'s Rock beats Trickster's Lizard.
+Round 24: Patrick :)'s Lizard beats Trickster's Spock.
+Round 25: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 26: Patrick :) and Trickster both played Paper.
+Round 27: Patrick :)'s Paper beats Trickster's Rock.
+Round 28: Patrick :)'s Rock beats Trickster's Lizard.
+Round 29: Patrick :)'s Lizard beats Trickster's Spock.
+Round 30: Patrick :)'s Spock beats Trickster's Scissors.
+Round 31: Trickster's Paper beats Patrick :)'s Spock.
+Round 32: Patrick :)'s Paper beats Trickster's Rock.
+Round 33: Patrick :)'s Rock beats Trickster's Lizard.
+Round 34: Patrick :)'s Lizard beats Trickster's Spock.
+Round 35: Patrick :)'s Spock beats Trickster's Scissors.
+Round 36: Patrick :)'s Scissors beats Trickster's Paper.
+Round 37: Trickster's Rock beats Patrick :)'s Scissors.
+Round 38: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 39: Patrick :) and Trickster both played Spock.
+Round 40: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 41: Patrick :)'s Scissors beats Trickster's Paper.
+Round 42: Patrick :)'s Paper beats Trickster's Rock.
+Round 43: Trickster's Lizard beats Patrick :)'s Paper.
+Round 44: Trickster's Spock beats Patrick :)'s Rock.
+Round 45: Trickster's Scissors beats Patrick :)'s Paper.
+Round 46: Patrick :)'s Scissors beats Trickster's Paper.
+Round 47: Patrick :)'s Paper beats Trickster's Rock.
+Round 48: Patrick :)'s Rock beats Trickster's Lizard.
+Round 49: Trickster's Spock beats Patrick :)'s Rock.
+Round 50: Patrick :)'s Spock beats Trickster's Scissors.
+Round 51: Trickster's Paper beats Patrick :)'s Spock.
+Round 52: Patrick :)'s Paper beats Trickster's Rock.
+Round 53: Patrick :)'s Rock beats Trickster's Lizard.
+Round 54: Patrick :)'s Lizard beats Trickster's Spock.
+Round 55: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 56: Patrick :)'s Lizard beats Trickster's Paper.
+Round 57: Patrick :)'s Paper beats Trickster's Rock.
+Round 58: Patrick :)'s Rock beats Trickster's Lizard.
+Round 59: Patrick :)'s Lizard beats Trickster's Spock.
+Round 60: Patrick :)'s Spock beats Trickster's Scissors.
+Round 61: Trickster's Paper beats Patrick :)'s Spock.
+Round 62: Patrick :)'s Paper beats Trickster's Rock.
+Round 63: Patrick :)'s Rock beats Trickster's Lizard.
+Round 64: Patrick :)'s Lizard beats Trickster's Spock.
+Round 65: Patrick :)'s Spock beats Trickster's Scissors.
+Round 66: Patrick :)'s Scissors beats Trickster's Paper.
+Round 67: Trickster's Rock beats Patrick :)'s Scissors.
+Round 68: Patrick :)'s Rock beats Trickster's Lizard.
+Round 69: Patrick :)'s Paper beats Trickster's Spock.
+Round 70: Patrick :) and Trickster both played Scissors.
+Round 71: Patrick :)'s Scissors beats Trickster's Paper.
+Round 72: Patrick :)'s Paper beats Trickster's Rock.
+Round 73: Trickster's Lizard beats Patrick :)'s Paper.
+Round 74: Patrick :) and Trickster both played Spock.
+Round 75: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 76: Trickster's Paper beats Patrick :)'s Rock.
+Round 77: Patrick :)'s Paper beats Trickster's Rock.
+Round 78: Patrick :)'s Rock beats Trickster's Lizard.
+Round 79: Trickster's Spock beats Patrick :)'s Rock.
+Round 80: Patrick :)'s Spock beats Trickster's Scissors.
+Round 81: Patrick :) and Trickster both played Paper.
+Round 82: Patrick :)'s Paper beats Trickster's Rock.
+Round 83: Patrick :)'s Rock beats Trickster's Lizard.
+Round 84: Patrick :)'s Lizard beats Trickster's Spock.
+Round 85: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 86: Patrick :)'s Scissors beats Trickster's Paper.
+Round 87: Patrick :)'s Paper beats Trickster's Rock.
+Round 88: Patrick :)'s Rock beats Trickster's Lizard.
+Round 89: Patrick :)'s Lizard beats Trickster's Spock.
+Round 90: Patrick :)'s Spock beats Trickster's Scissors.
+Round 91: Trickster's Paper beats Patrick :)'s Spock.
+Round 92: Patrick :)'s Paper beats Trickster's Rock.
+Round 93: Patrick :)'s Rock beats Trickster's Lizard.
+Round 94: Patrick :)'s Lizard beats Trickster's Spock.
+Round 95: Patrick :)'s Spock beats Trickster's Scissors.
+Round 96: Patrick :)'s Scissors beats Trickster's Paper.
+Round 97: Trickster's Rock beats Patrick :)'s Scissors.
+Round 98: Trickster's Lizard beats Patrick :)'s Spock.
+Round 99: Patrick :)'s Lizard beats Trickster's Spock.
+Round 100: Patrick :)'s Rock beats Trickster's Scissors.
+Patrick :) won 65 rounds and Trickster won 28 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 4 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 2: Patrick :) and Trickster both played Spock.
+Round 3: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 4: Trickster's Paper beats Patrick :)'s Rock.
+Round 5: Patrick :)'s Paper beats Trickster's Rock.
+Round 6: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 7: Patrick :) and Trickster both played Spock.
+Round 8: Patrick :)'s Spock beats Trickster's Scissors.
+Round 9: Patrick :)'s Lizard beats Trickster's Paper.
+Round 10: Patrick :)'s Paper beats Trickster's Rock.
+Round 11: Patrick :)'s Rock beats Trickster's Lizard.
+Round 12: Patrick :)'s Lizard beats Trickster's Spock.
+Round 13: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 14: Trickster's Paper beats Patrick :)'s Rock.
+Round 15: Patrick :)'s Paper beats Trickster's Rock.
+Round 16: Patrick :)'s Rock beats Trickster's Lizard.
+Round 17: Patrick :)'s Lizard beats Trickster's Spock.
+Round 18: Patrick :)'s Spock beats Trickster's Scissors.
+Round 19: Trickster's Paper beats Patrick :)'s Spock.
+Round 20: Patrick :)'s Paper beats Trickster's Rock.
+Round 21: Patrick :)'s Rock beats Trickster's Lizard.
+Round 22: Patrick :)'s Lizard beats Trickster's Spock.
+Round 23: Patrick :)'s Spock beats Trickster's Scissors.
+Round 24: Patrick :)'s Scissors beats Trickster's Paper.
+Round 25: Trickster's Rock beats Patrick :)'s Scissors.
+Round 26: Trickster's Lizard beats Patrick :)'s Paper.
+Round 27: Trickster's Spock beats Patrick :)'s Scissors.
+Round 28: Patrick :)'s Spock beats Trickster's Scissors.
+Round 29: Patrick :)'s Scissors beats Trickster's Paper.
+Round 30: Patrick :)'s Paper beats Trickster's Rock.
+Round 31: Trickster's Lizard beats Patrick :)'s Paper.
+Round 32: Patrick :)'s Lizard beats Trickster's Spock.
+Round 33: Patrick :)'s Rock beats Trickster's Scissors.
+Round 34: Patrick :) and Trickster both played Paper.
+Round 35: Patrick :)'s Paper beats Trickster's Rock.
+Round 36: Patrick :)'s Rock beats Trickster's Lizard.
+Round 37: Trickster's Spock beats Patrick :)'s Rock.
+Round 38: Patrick :)'s Spock beats Trickster's Scissors.
+Round 39: Patrick :)'s Scissors beats Trickster's Paper.
+Round 40: Patrick :)'s Paper beats Trickster's Rock.
+Round 41: Patrick :)'s Rock beats Trickster's Lizard.
+Round 42: Patrick :)'s Lizard beats Trickster's Spock.
+Round 43: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 44: Trickster's Paper beats Patrick :)'s Spock.
+Round 45: Patrick :)'s Paper beats Trickster's Rock.
+Round 46: Patrick :)'s Rock beats Trickster's Lizard.
+Round 47: Patrick :)'s Lizard beats Trickster's Spock.
+Round 48: Patrick :)'s Spock beats Trickster's Scissors.
+Round 49: Trickster's Paper beats Patrick :)'s Spock.
+Round 50: Patrick :)'s Paper beats Trickster's Rock.
+Round 51: Patrick :)'s Rock beats Trickster's Lizard.
+Round 52: Patrick :)'s Lizard beats Trickster's Spock.
+Round 53: Patrick :)'s Spock beats Trickster's Scissors.
+Round 54: Patrick :)'s Scissors beats Trickster's Paper.
+Round 55: Trickster's Rock beats Patrick :)'s Scissors.
+Round 56: Patrick :) and Trickster both played Lizard.
+Round 57: Trickster's Spock beats Patrick :)'s Rock.
+Round 58: Trickster's Scissors beats Patrick :)'s Paper.
+Round 59: Patrick :)'s Scissors beats Trickster's Paper.
+Round 60: Patrick :)'s Paper beats Trickster's Rock.
+Round 61: Trickster's Lizard beats Patrick :)'s Paper.
+Round 62: Trickster's Spock beats Patrick :)'s Scissors.
+Round 63: Patrick :)'s Spock beats Trickster's Scissors.
+Round 64: Patrick :)'s Lizard beats Trickster's Paper.
+Round 65: Patrick :)'s Paper beats Trickster's Rock.
+Round 66: Patrick :)'s Rock beats Trickster's Lizard.
+Round 67: Trickster's Spock beats Patrick :)'s Rock.
+Round 68: Patrick :)'s Spock beats Trickster's Scissors.
+Round 69: Trickster's Paper beats Patrick :)'s Rock.
+Round 70: Patrick :)'s Paper beats Trickster's Rock.
+Round 71: Patrick :)'s Rock beats Trickster's Lizard.
+Round 72: Patrick :)'s Lizard beats Trickster's Spock.
+Round 73: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 74: Patrick :) and Trickster both played Paper.
+Round 75: Patrick :)'s Paper beats Trickster's Rock.
+Round 76: Patrick :)'s Rock beats Trickster's Lizard.
+Round 77: Patrick :)'s Lizard beats Trickster's Spock.
+Round 78: Patrick :)'s Spock beats Trickster's Scissors.
+Round 79: Trickster's Paper beats Patrick :)'s Spock.
+Round 80: Patrick :)'s Paper beats Trickster's Rock.
+Round 81: Patrick :)'s Rock beats Trickster's Lizard.
+Round 82: Patrick :)'s Lizard beats Trickster's Spock.
+Round 83: Patrick :)'s Spock beats Trickster's Scissors.
+Round 84: Patrick :)'s Scissors beats Trickster's Paper.
+Round 85: Trickster's Rock beats Patrick :)'s Scissors.
+Round 86: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 87: Patrick :) and Trickster both played Spock.
+Round 88: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 89: Patrick :)'s Scissors beats Trickster's Paper.
+Round 90: Patrick :)'s Paper beats Trickster's Rock.
+Round 91: Trickster's Lizard beats Patrick :)'s Paper.
+Round 92: Trickster's Spock beats Patrick :)'s Rock.
+Round 93: Trickster's Scissors beats Patrick :)'s Paper.
+Round 94: Patrick :)'s Scissors beats Trickster's Paper.
+Round 95: Patrick :)'s Paper beats Trickster's Rock.
+Round 96: Patrick :)'s Rock beats Trickster's Lizard.
+Round 97: Trickster's Spock beats Patrick :)'s Rock.
+Round 98: Patrick :)'s Spock beats Trickster's Scissors.
+Round 99: Trickster's Paper beats Patrick :)'s Spock.
+Round 100: Patrick :)'s Paper beats Trickster's Rock.
+Patrick :) won 65 rounds and Trickster won 29 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 5 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :)'s Scissors beats Trickster's Paper.
+Round 2: Patrick :)'s Spock beats Trickster's Rock.
+Round 3: Patrick :) and Trickster both played Lizard.
+Round 4: Trickster's Spock beats Patrick :)'s Rock.
+Round 5: Trickster's Scissors beats Patrick :)'s Paper.
+Round 6: Patrick :)'s Scissors beats Trickster's Paper.
+Round 7: Patrick :)'s Spock beats Trickster's Rock.
+Round 8: Patrick :) and Trickster both played Lizard.
+Round 9: Trickster's Spock beats Patrick :)'s Rock.
+Round 10: Trickster's Scissors beats Patrick :)'s Paper.
+Round 11: Patrick :)'s Scissors beats Trickster's Paper.
+Round 12: Patrick :)'s Paper beats Trickster's Rock.
+Round 13: Trickster's Lizard beats Patrick :)'s Paper.
+Round 14: Trickster's Spock beats Patrick :)'s Scissors.
+Round 15: Patrick :)'s Spock beats Trickster's Scissors.
+Round 16: Patrick :)'s Lizard beats Trickster's Paper.
+Round 17: Patrick :)'s Paper beats Trickster's Rock.
+Round 18: Patrick :)'s Rock beats Trickster's Lizard.
+Round 19: Trickster's Spock beats Patrick :)'s Rock.
+Round 20: Patrick :)'s Spock beats Trickster's Scissors.
+Round 21: Trickster's Paper beats Patrick :)'s Rock.
+Round 22: Patrick :)'s Paper beats Trickster's Rock.
+Round 23: Patrick :)'s Rock beats Trickster's Lizard.
+Round 24: Patrick :)'s Lizard beats Trickster's Spock.
+Round 25: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 26: Patrick :) and Trickster both played Paper.
+Round 27: Patrick :)'s Paper beats Trickster's Rock.
+Round 28: Patrick :)'s Rock beats Trickster's Lizard.
+Round 29: Patrick :)'s Lizard beats Trickster's Spock.
+Round 30: Patrick :)'s Spock beats Trickster's Scissors.
+Round 31: Trickster's Paper beats Patrick :)'s Spock.
+Round 32: Patrick :)'s Paper beats Trickster's Rock.
+Round 33: Patrick :)'s Rock beats Trickster's Lizard.
+Round 34: Patrick :)'s Lizard beats Trickster's Spock.
+Round 35: Patrick :)'s Spock beats Trickster's Scissors.
+Round 36: Patrick :)'s Scissors beats Trickster's Paper.
+Round 37: Trickster's Rock beats Patrick :)'s Scissors.
+Round 38: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 39: Patrick :) and Trickster both played Spock.
+Round 40: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 41: Patrick :)'s Scissors beats Trickster's Paper.
+Round 42: Patrick :)'s Paper beats Trickster's Rock.
+Round 43: Trickster's Lizard beats Patrick :)'s Paper.
+Round 44: Trickster's Spock beats Patrick :)'s Rock.
+Round 45: Trickster's Scissors beats Patrick :)'s Paper.
+Round 46: Patrick :)'s Scissors beats Trickster's Paper.
+Round 47: Patrick :)'s Paper beats Trickster's Rock.
+Round 48: Patrick :)'s Rock beats Trickster's Lizard.
+Round 49: Trickster's Spock beats Patrick :)'s Rock.
+Round 50: Patrick :)'s Spock beats Trickster's Scissors.
+Round 51: Trickster's Paper beats Patrick :)'s Spock.
+Round 52: Patrick :)'s Paper beats Trickster's Rock.
+Round 53: Patrick :)'s Rock beats Trickster's Lizard.
+Round 54: Patrick :)'s Lizard beats Trickster's Spock.
+Round 55: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 56: Patrick :)'s Lizard beats Trickster's Paper.
+Round 57: Patrick :)'s Paper beats Trickster's Rock.
+Round 58: Patrick :)'s Rock beats Trickster's Lizard.
+Round 59: Patrick :)'s Lizard beats Trickster's Spock.
+Round 60: Patrick :)'s Spock beats Trickster's Scissors.
+Round 61: Trickster's Paper beats Patrick :)'s Spock.
+Round 62: Patrick :)'s Paper beats Trickster's Rock.
+Round 63: Patrick :)'s Rock beats Trickster's Lizard.
+Round 64: Patrick :)'s Lizard beats Trickster's Spock.
+Round 65: Patrick :)'s Spock beats Trickster's Scissors.
+Round 66: Patrick :)'s Scissors beats Trickster's Paper.
+Round 67: Trickster's Rock beats Patrick :)'s Scissors.
+Round 68: Patrick :)'s Rock beats Trickster's Lizard.
+Round 69: Patrick :)'s Paper beats Trickster's Spock.
+Round 70: Patrick :) and Trickster both played Scissors.
+Round 71: Patrick :)'s Scissors beats Trickster's Paper.
+Round 72: Patrick :)'s Paper beats Trickster's Rock.
+Round 73: Trickster's Lizard beats Patrick :)'s Paper.
+Round 74: Patrick :) and Trickster both played Spock.
+Round 75: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 76: Trickster's Paper beats Patrick :)'s Rock.
+Round 77: Patrick :)'s Paper beats Trickster's Rock.
+Round 78: Patrick :)'s Rock beats Trickster's Lizard.
+Round 79: Trickster's Spock beats Patrick :)'s Rock.
+Round 80: Patrick :)'s Spock beats Trickster's Scissors.
+Round 81: Patrick :) and Trickster both played Paper.
+Round 82: Patrick :)'s Paper beats Trickster's Rock.
+Round 83: Patrick :)'s Rock beats Trickster's Lizard.
+Round 84: Patrick :)'s Lizard beats Trickster's Spock.
+Round 85: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 86: Patrick :)'s Scissors beats Trickster's Paper.
+Round 87: Patrick :)'s Paper beats Trickster's Rock.
+Round 88: Patrick :)'s Rock beats Trickster's Lizard.
+Round 89: Patrick :)'s Lizard beats Trickster's Spock.
+Round 90: Patrick :)'s Spock beats Trickster's Scissors.
+Round 91: Trickster's Paper beats Patrick :)'s Spock.
+Round 92: Patrick :)'s Paper beats Trickster's Rock.
+Round 93: Patrick :)'s Rock beats Trickster's Lizard.
+Round 94: Patrick :)'s Lizard beats Trickster's Spock.
+Round 95: Patrick :)'s Spock beats Trickster's Scissors.
+Round 96: Patrick :)'s Scissors beats Trickster's Paper.
+Round 97: Trickster's Rock beats Patrick :)'s Scissors.
+Round 98: Trickster's Lizard beats Patrick :)'s Spock.
+Round 99: Patrick :)'s Lizard beats Trickster's Spock.
+Round 100: Patrick :)'s Rock beats Trickster's Scissors.
+Patrick :) won 65 rounds and Trickster won 28 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 6 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 2: Patrick :) and Trickster both played Spock.
+Round 3: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 4: Trickster's Paper beats Patrick :)'s Rock.
+Round 5: Patrick :)'s Paper beats Trickster's Rock.
+Round 6: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 7: Patrick :) and Trickster both played Spock.
+Round 8: Patrick :)'s Spock beats Trickster's Scissors.
+Round 9: Patrick :)'s Lizard beats Trickster's Paper.
+Round 10: Patrick :)'s Paper beats Trickster's Rock.
+Round 11: Patrick :)'s Rock beats Trickster's Lizard.
+Round 12: Patrick :)'s Lizard beats Trickster's Spock.
+Round 13: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 14: Trickster's Paper beats Patrick :)'s Rock.
+Round 15: Patrick :)'s Paper beats Trickster's Rock.
+Round 16: Patrick :)'s Rock beats Trickster's Lizard.
+Round 17: Patrick :)'s Lizard beats Trickster's Spock.
+Round 18: Patrick :)'s Spock beats Trickster's Scissors.
+Round 19: Trickster's Paper beats Patrick :)'s Spock.
+Round 20: Patrick :)'s Paper beats Trickster's Rock.
+Round 21: Patrick :)'s Rock beats Trickster's Lizard.
+Round 22: Patrick :)'s Lizard beats Trickster's Spock.
+Round 23: Patrick :)'s Spock beats Trickster's Scissors.
+Round 24: Patrick :)'s Scissors beats Trickster's Paper.
+Round 25: Trickster's Rock beats Patrick :)'s Scissors.
+Round 26: Trickster's Lizard beats Patrick :)'s Paper.
+Round 27: Trickster's Spock beats Patrick :)'s Scissors.
+Round 28: Patrick :)'s Spock beats Trickster's Scissors.
+Round 29: Patrick :)'s Scissors beats Trickster's Paper.
+Round 30: Patrick :)'s Paper beats Trickster's Rock.
+Round 31: Trickster's Lizard beats Patrick :)'s Paper.
+Round 32: Patrick :)'s Lizard beats Trickster's Spock.
+Round 33: Patrick :)'s Rock beats Trickster's Scissors.
+Round 34: Patrick :) and Trickster both played Paper.
+Round 35: Patrick :)'s Paper beats Trickster's Rock.
+Round 36: Patrick :)'s Rock beats Trickster's Lizard.
+Round 37: Trickster's Spock beats Patrick :)'s Rock.
+Round 38: Patrick :)'s Spock beats Trickster's Scissors.
+Round 39: Patrick :)'s Scissors beats Trickster's Paper.
+Round 40: Patrick :)'s Paper beats Trickster's Rock.
+Round 41: Patrick :)'s Rock beats Trickster's Lizard.
+Round 42: Patrick :)'s Lizard beats Trickster's Spock.
+Round 43: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 44: Trickster's Paper beats Patrick :)'s Spock.
+Round 45: Patrick :)'s Paper beats Trickster's Rock.
+Round 46: Patrick :)'s Rock beats Trickster's Lizard.
+Round 47: Patrick :)'s Lizard beats Trickster's Spock.
+Round 48: Patrick :)'s Spock beats Trickster's Scissors.
+Round 49: Trickster's Paper beats Patrick :)'s Spock.
+Round 50: Patrick :)'s Paper beats Trickster's Rock.
+Round 51: Patrick :)'s Rock beats Trickster's Lizard.
+Round 52: Patrick :)'s Lizard beats Trickster's Spock.
+Round 53: Patrick :)'s Spock beats Trickster's Scissors.
+Round 54: Patrick :)'s Scissors beats Trickster's Paper.
+Round 55: Trickster's Rock beats Patrick :)'s Scissors.
+Round 56: Patrick :) and Trickster both played Lizard.
+Round 57: Trickster's Spock beats Patrick :)'s Rock.
+Round 58: Trickster's Scissors beats Patrick :)'s Paper.
+Round 59: Patrick :)'s Scissors beats Trickster's Paper.
+Round 60: Patrick :)'s Paper beats Trickster's Rock.
+Round 61: Trickster's Lizard beats Patrick :)'s Paper.
+Round 62: Trickster's Spock beats Patrick :)'s Scissors.
+Round 63: Patrick :)'s Spock beats Trickster's Scissors.
+Round 64: Patrick :)'s Lizard beats Trickster's Paper.
+Round 65: Patrick :)'s Paper beats Trickster's Rock.
+Round 66: Patrick :)'s Rock beats Trickster's Lizard.
+Round 67: Trickster's Spock beats Patrick :)'s Rock.
+Round 68: Patrick :)'s Spock beats Trickster's Scissors.
+Round 69: Trickster's Paper beats Patrick :)'s Rock.
+Round 70: Patrick :)'s Paper beats Trickster's Rock.
+Round 71: Patrick :)'s Rock beats Trickster's Lizard.
+Round 72: Patrick :)'s Lizard beats Trickster's Spock.
+Round 73: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 74: Patrick :) and Trickster both played Paper.
+Round 75: Patrick :)'s Paper beats Trickster's Rock.
+Round 76: Patrick :)'s Rock beats Trickster's Lizard.
+Round 77: Patrick :)'s Lizard beats Trickster's Spock.
+Round 78: Patrick :)'s Spock beats Trickster's Scissors.
+Round 79: Trickster's Paper beats Patrick :)'s Spock.
+Round 80: Patrick :)'s Paper beats Trickster's Rock.
+Round 81: Patrick :)'s Rock beats Trickster's Lizard.
+Round 82: Patrick :)'s Lizard beats Trickster's Spock.
+Round 83: Patrick :)'s Spock beats Trickster's Scissors.
+Round 84: Patrick :)'s Scissors beats Trickster's Paper.
+Round 85: Trickster's Rock beats Patrick :)'s Scissors.
+Round 86: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 87: Patrick :) and Trickster both played Spock.
+Round 88: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 89: Patrick :)'s Scissors beats Trickster's Paper.
+Round 90: Patrick :)'s Paper beats Trickster's Rock.
+Round 91: Trickster's Lizard beats Patrick :)'s Paper.
+Round 92: Trickster's Spock beats Patrick :)'s Rock.
+Round 93: Trickster's Scissors beats Patrick :)'s Paper.
+Round 94: Patrick :)'s Scissors beats Trickster's Paper.
+Round 95: Patrick :)'s Paper beats Trickster's Rock.
+Round 96: Patrick :)'s Rock beats Trickster's Lizard.
+Round 97: Trickster's Spock beats Patrick :)'s Rock.
+Round 98: Patrick :)'s Spock beats Trickster's Scissors.
+Round 99: Trickster's Paper beats Patrick :)'s Spock.
+Round 100: Patrick :)'s Paper beats Trickster's Rock.
+Patrick :) won 65 rounds and Trickster won 29 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 7 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :)'s Scissors beats Trickster's Paper.
+Round 2: Patrick :)'s Spock beats Trickster's Rock.
+Round 3: Patrick :) and Trickster both played Lizard.
+Round 4: Trickster's Spock beats Patrick :)'s Rock.
+Round 5: Trickster's Scissors beats Patrick :)'s Paper.
+Round 6: Patrick :)'s Scissors beats Trickster's Paper.
+Round 7: Patrick :)'s Spock beats Trickster's Rock.
+Round 8: Patrick :) and Trickster both played Lizard.
+Round 9: Trickster's Spock beats Patrick :)'s Rock.
+Round 10: Trickster's Scissors beats Patrick :)'s Paper.
+Round 11: Patrick :)'s Scissors beats Trickster's Paper.
+Round 12: Patrick :)'s Paper beats Trickster's Rock.
+Round 13: Trickster's Lizard beats Patrick :)'s Paper.
+Round 14: Trickster's Spock beats Patrick :)'s Scissors.
+Round 15: Patrick :)'s Spock beats Trickster's Scissors.
+Round 16: Patrick :)'s Lizard beats Trickster's Paper.
+Round 17: Patrick :)'s Paper beats Trickster's Rock.
+Round 18: Patrick :)'s Rock beats Trickster's Lizard.
+Round 19: Trickster's Spock beats Patrick :)'s Rock.
+Round 20: Patrick :)'s Spock beats Trickster's Scissors.
+Round 21: Trickster's Paper beats Patrick :)'s Rock.
+Round 22: Patrick :)'s Paper beats Trickster's Rock.
+Round 23: Patrick :)'s Rock beats Trickster's Lizard.
+Round 24: Patrick :)'s Lizard beats Trickster's Spock.
+Round 25: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 26: Patrick :) and Trickster both played Paper.
+Round 27: Patrick :)'s Paper beats Trickster's Rock.
+Round 28: Patrick :)'s Rock beats Trickster's Lizard.
+Round 29: Patrick :)'s Lizard beats Trickster's Spock.
+Round 30: Patrick :)'s Spock beats Trickster's Scissors.
+Round 31: Trickster's Paper beats Patrick :)'s Spock.
+Round 32: Patrick :)'s Paper beats Trickster's Rock.
+Round 33: Patrick :)'s Rock beats Trickster's Lizard.
+Round 34: Patrick :)'s Lizard beats Trickster's Spock.
+Round 35: Patrick :)'s Spock beats Trickster's Scissors.
+Round 36: Patrick :)'s Scissors beats Trickster's Paper.
+Round 37: Trickster's Rock beats Patrick :)'s Scissors.
+Round 38: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 39: Patrick :) and Trickster both played Spock.
+Round 40: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 41: Patrick :)'s Scissors beats Trickster's Paper.
+Round 42: Patrick :)'s Paper beats Trickster's Rock.
+Round 43: Trickster's Lizard beats Patrick :)'s Paper.
+Round 44: Trickster's Spock beats Patrick :)'s Rock.
+Round 45: Trickster's Scissors beats Patrick :)'s Paper.
+Round 46: Patrick :)'s Scissors beats Trickster's Paper.
+Round 47: Patrick :)'s Paper beats Trickster's Rock.
+Round 48: Patrick :)'s Rock beats Trickster's Lizard.
+Round 49: Trickster's Spock beats Patrick :)'s Rock.
+Round 50: Patrick :)'s Spock beats Trickster's Scissors.
+Round 51: Trickster's Paper beats Patrick :)'s Spock.
+Round 52: Patrick :)'s Paper beats Trickster's Rock.
+Round 53: Patrick :)'s Rock beats Trickster's Lizard.
+Round 54: Patrick :)'s Lizard beats Trickster's Spock.
+Round 55: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 56: Patrick :)'s Lizard beats Trickster's Paper.
+Round 57: Patrick :)'s Paper beats Trickster's Rock.
+Round 58: Patrick :)'s Rock beats Trickster's Lizard.
+Round 59: Patrick :)'s Lizard beats Trickster's Spock.
+Round 60: Patrick :)'s Spock beats Trickster's Scissors.
+Round 61: Trickster's Paper beats Patrick :)'s Spock.
+Round 62: Patrick :)'s Paper beats Trickster's Rock.
+Round 63: Patrick :)'s Rock beats Trickster's Lizard.
+Round 64: Patrick :)'s Lizard beats Trickster's Spock.
+Round 65: Patrick :)'s Spock beats Trickster's Scissors.
+Round 66: Patrick :)'s Scissors beats Trickster's Paper.
+Round 67: Trickster's Rock beats Patrick :)'s Scissors.
+Round 68: Patrick :)'s Rock beats Trickster's Lizard.
+Round 69: Patrick :)'s Paper beats Trickster's Spock.
+Round 70: Patrick :) and Trickster both played Scissors.
+Round 71: Patrick :)'s Scissors beats Trickster's Paper.
+Round 72: Patrick :)'s Paper beats Trickster's Rock.
+Round 73: Trickster's Lizard beats Patrick :)'s Paper.
+Round 74: Patrick :) and Trickster both played Spock.
+Round 75: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 76: Trickster's Paper beats Patrick :)'s Rock.
+Round 77: Patrick :)'s Paper beats Trickster's Rock.
+Round 78: Patrick :)'s Rock beats Trickster's Lizard.
+Round 79: Trickster's Spock beats Patrick :)'s Rock.
+Round 80: Patrick :)'s Spock beats Trickster's Scissors.
+Round 81: Patrick :) and Trickster both played Paper.
+Round 82: Patrick :)'s Paper beats Trickster's Rock.
+Round 83: Patrick :)'s Rock beats Trickster's Lizard.
+Round 84: Patrick :)'s Lizard beats Trickster's Spock.
+Round 85: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 86: Patrick :)'s Scissors beats Trickster's Paper.
+Round 87: Patrick :)'s Paper beats Trickster's Rock.
+Round 88: Patrick :)'s Rock beats Trickster's Lizard.
+Round 89: Patrick :)'s Lizard beats Trickster's Spock.
+Round 90: Patrick :)'s Spock beats Trickster's Scissors.
+Round 91: Trickster's Paper beats Patrick :)'s Spock.
+Round 92: Patrick :)'s Paper beats Trickster's Rock.
+Round 93: Patrick :)'s Rock beats Trickster's Lizard.
+Round 94: Patrick :)'s Lizard beats Trickster's Spock.
+Round 95: Patrick :)'s Spock beats Trickster's Scissors.
+Round 96: Patrick :)'s Scissors beats Trickster's Paper.
+Round 97: Trickster's Rock beats Patrick :)'s Scissors.
+Round 98: Trickster's Lizard beats Patrick :)'s Spock.
+Round 99: Patrick :)'s Lizard beats Trickster's Spock.
+Round 100: Patrick :)'s Rock beats Trickster's Scissors.
+Patrick :) won 65 rounds and Trickster won 28 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 8 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Trickster's Spock beats Patrick :)'s Scissors.
+Round 2: Patrick :)'s Spock beats Trickster's Scissors.
+Round 3: Patrick :)'s Lizard beats Trickster's Paper.
+Round 4: Patrick :) and Trickster both played Rock.
+Round 5: Trickster's Lizard beats Patrick :)'s Paper.
+Round 6: Trickster's Spock beats Patrick :)'s Scissors.
+Round 7: Patrick :)'s Spock beats Trickster's Scissors.
+Round 8: Patrick :)'s Lizard beats Trickster's Paper.
+Round 9: Patrick :)'s Paper beats Trickster's Rock.
+Round 10: Patrick :)'s Rock beats Trickster's Lizard.
+Round 11: Patrick :)'s Lizard beats Trickster's Spock.
+Round 12: Patrick :)'s Spock beats Trickster's Scissors.
+Round 13: Trickster's Paper beats Patrick :)'s Spock.
+Round 14: Patrick :)'s Paper beats Trickster's Rock.
+Round 15: Patrick :)'s Rock beats Trickster's Lizard.
+Round 16: Patrick :)'s Lizard beats Trickster's Spock.
+Round 17: Patrick :)'s Spock beats Trickster's Scissors.
+Round 18: Patrick :)'s Scissors beats Trickster's Paper.
+Round 19: Trickster's Rock beats Patrick :)'s Scissors.
+Round 20: Patrick :)'s Rock beats Trickster's Lizard.
+Round 21: Patrick :)'s Paper beats Trickster's Spock.
+Round 22: Patrick :) and Trickster both played Scissors.
+Round 23: Patrick :)'s Scissors beats Trickster's Paper.
+Round 24: Patrick :)'s Paper beats Trickster's Rock.
+Round 25: Trickster's Lizard beats Patrick :)'s Paper.
+Round 26: Patrick :) and Trickster both played Spock.
+Round 27: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 28: Trickster's Paper beats Patrick :)'s Rock.
+Round 29: Patrick :)'s Paper beats Trickster's Rock.
+Round 30: Patrick :)'s Rock beats Trickster's Lizard.
+Round 31: Trickster's Spock beats Patrick :)'s Rock.
+Round 32: Patrick :)'s Spock beats Trickster's Scissors.
+Round 33: Patrick :) and Trickster both played Paper.
+Round 34: Patrick :)'s Paper beats Trickster's Rock.
+Round 35: Patrick :)'s Rock beats Trickster's Lizard.
+Round 36: Patrick :)'s Lizard beats Trickster's Spock.
+Round 37: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 38: Patrick :)'s Scissors beats Trickster's Paper.
+Round 39: Patrick :)'s Paper beats Trickster's Rock.
+Round 40: Patrick :)'s Rock beats Trickster's Lizard.
+Round 41: Patrick :)'s Lizard beats Trickster's Spock.
+Round 42: Patrick :)'s Spock beats Trickster's Scissors.
+Round 43: Trickster's Paper beats Patrick :)'s Spock.
+Round 44: Patrick :)'s Paper beats Trickster's Rock.
+Round 45: Patrick :)'s Rock beats Trickster's Lizard.
+Round 46: Patrick :)'s Lizard beats Trickster's Spock.
+Round 47: Patrick :)'s Spock beats Trickster's Scissors.
+Round 48: Patrick :)'s Scissors beats Trickster's Paper.
+Round 49: Trickster's Rock beats Patrick :)'s Scissors.
+Round 50: Trickster's Lizard beats Patrick :)'s Spock.
+Round 51: Patrick :)'s Lizard beats Trickster's Spock.
+Round 52: Patrick :)'s Rock beats Trickster's Scissors.
+Round 53: Patrick :)'s Scissors beats Trickster's Paper.
+Round 54: Patrick :)'s Paper beats Trickster's Rock.
+Round 55: Trickster's Lizard beats Patrick :)'s Paper.
+Round 56: Patrick :)'s Paper beats Trickster's Spock.
+Round 57: Patrick :) and Trickster both played Scissors.
+Round 58: Trickster's Paper beats Patrick :)'s Spock.
+Round 59: Patrick :)'s Paper beats Trickster's Rock.
+Round 60: Patrick :)'s Rock beats Trickster's Lizard.
+Round 61: Trickster's Spock beats Patrick :)'s Rock.
+Round 62: Patrick :)'s Spock beats Trickster's Scissors.
+Round 63: Patrick :)'s Lizard beats Trickster's Paper.
+Round 64: Patrick :)'s Paper beats Trickster's Rock.
+Round 65: Patrick :)'s Rock beats Trickster's Lizard.
+Round 66: Patrick :)'s Lizard beats Trickster's Spock.
+Round 67: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 68: Trickster's Paper beats Patrick :)'s Rock.
+Round 69: Patrick :)'s Paper beats Trickster's Rock.
+Round 70: Patrick :)'s Rock beats Trickster's Lizard.
+Round 71: Patrick :)'s Lizard beats Trickster's Spock.
+Round 72: Patrick :)'s Spock beats Trickster's Scissors.
+Round 73: Trickster's Paper beats Patrick :)'s Spock.
+Round 74: Patrick :)'s Paper beats Trickster's Rock.
+Round 75: Patrick :)'s Rock beats Trickster's Lizard.
+Round 76: Patrick :)'s Lizard beats Trickster's Spock.
+Round 77: Patrick :)'s Spock beats Trickster's Scissors.
+Round 78: Patrick :)'s Scissors beats Trickster's Paper.
+Round 79: Trickster's Rock beats Patrick :)'s Scissors.
+Round 80: Trickster's Lizard beats Patrick :)'s Paper.
+Round 81: Trickster's Spock beats Patrick :)'s Scissors.
+Round 82: Patrick :)'s Spock beats Trickster's Scissors.
+Round 83: Patrick :)'s Scissors beats Trickster's Paper.
+Round 84: Patrick :)'s Paper beats Trickster's Rock.
+Round 85: Trickster's Lizard beats Patrick :)'s Paper.
+Round 86: Patrick :)'s Lizard beats Trickster's Spock.
+Round 87: Patrick :)'s Rock beats Trickster's Scissors.
+Round 88: Patrick :) and Trickster both played Paper.
+Round 89: Patrick :)'s Paper beats Trickster's Rock.
+Round 90: Patrick :)'s Rock beats Trickster's Lizard.
+Round 91: Trickster's Spock beats Patrick :)'s Rock.
+Round 92: Patrick :)'s Spock beats Trickster's Scissors.
+Round 93: Patrick :)'s Scissors beats Trickster's Paper.
+Round 94: Patrick :)'s Paper beats Trickster's Rock.
+Round 95: Patrick :)'s Rock beats Trickster's Lizard.
+Round 96: Patrick :)'s Lizard beats Trickster's Spock.
+Round 97: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 98: Trickster's Paper beats Patrick :)'s Spock.
+Round 99: Patrick :)'s Paper beats Trickster's Rock.
+Round 100: Patrick :)'s Rock beats Trickster's Lizard.
+Patrick :) won 68 rounds and Trickster won 26 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 9 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :)'s Scissors beats Trickster's Paper.
+Round 2: Patrick :)'s Spock beats Trickster's Rock.
+Round 3: Patrick :) and Trickster both played Lizard.
+Round 4: Trickster's Spock beats Patrick :)'s Rock.
+Round 5: Trickster's Scissors beats Patrick :)'s Paper.
+Round 6: Patrick :)'s Scissors beats Trickster's Paper.
+Round 7: Patrick :)'s Spock beats Trickster's Rock.
+Round 8: Patrick :) and Trickster both played Lizard.
+Round 9: Trickster's Spock beats Patrick :)'s Rock.
+Round 10: Trickster's Scissors beats Patrick :)'s Paper.
+Round 11: Patrick :)'s Scissors beats Trickster's Paper.
+Round 12: Patrick :)'s Paper beats Trickster's Rock.
+Round 13: Trickster's Lizard beats Patrick :)'s Paper.
+Round 14: Trickster's Spock beats Patrick :)'s Scissors.
+Round 15: Patrick :)'s Spock beats Trickster's Scissors.
+Round 16: Patrick :)'s Lizard beats Trickster's Paper.
+Round 17: Patrick :)'s Paper beats Trickster's Rock.
+Round 18: Patrick :)'s Rock beats Trickster's Lizard.
+Round 19: Trickster's Spock beats Patrick :)'s Rock.
+Round 20: Patrick :)'s Spock beats Trickster's Scissors.
+Round 21: Trickster's Paper beats Patrick :)'s Rock.
+Round 22: Patrick :)'s Paper beats Trickster's Rock.
+Round 23: Patrick :)'s Rock beats Trickster's Lizard.
+Round 24: Patrick :)'s Lizard beats Trickster's Spock.
+Round 25: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 26: Patrick :) and Trickster both played Paper.
+Round 27: Patrick :)'s Paper beats Trickster's Rock.
+Round 28: Patrick :)'s Rock beats Trickster's Lizard.
+Round 29: Patrick :)'s Lizard beats Trickster's Spock.
+Round 30: Patrick :)'s Spock beats Trickster's Scissors.
+Round 31: Trickster's Paper beats Patrick :)'s Spock.
+Round 32: Patrick :)'s Paper beats Trickster's Rock.
+Round 33: Patrick :)'s Rock beats Trickster's Lizard.
+Round 34: Patrick :)'s Lizard beats Trickster's Spock.
+Round 35: Patrick :)'s Spock beats Trickster's Scissors.
+Round 36: Patrick :)'s Scissors beats Trickster's Paper.
+Round 37: Trickster's Rock beats Patrick :)'s Scissors.
+Round 38: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 39: Patrick :) and Trickster both played Spock.
+Round 40: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 41: Patrick :)'s Scissors beats Trickster's Paper.
+Round 42: Patrick :)'s Paper beats Trickster's Rock.
+Round 43: Trickster's Lizard beats Patrick :)'s Paper.
+Round 44: Trickster's Spock beats Patrick :)'s Rock.
+Round 45: Trickster's Scissors beats Patrick :)'s Paper.
+Round 46: Patrick :)'s Scissors beats Trickster's Paper.
+Round 47: Patrick :)'s Paper beats Trickster's Rock.
+Round 48: Patrick :)'s Rock beats Trickster's Lizard.
+Round 49: Trickster's Spock beats Patrick :)'s Rock.
+Round 50: Patrick :)'s Spock beats Trickster's Scissors.
+Round 51: Trickster's Paper beats Patrick :)'s Spock.
+Round 52: Patrick :)'s Paper beats Trickster's Rock.
+Round 53: Patrick :)'s Rock beats Trickster's Lizard.
+Round 54: Patrick :)'s Lizard beats Trickster's Spock.
+Round 55: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 56: Patrick :)'s Lizard beats Trickster's Paper.
+Round 57: Patrick :)'s Paper beats Trickster's Rock.
+Round 58: Patrick :)'s Rock beats Trickster's Lizard.
+Round 59: Patrick :)'s Lizard beats Trickster's Spock.
+Round 60: Patrick :)'s Spock beats Trickster's Scissors.
+Round 61: Trickster's Paper beats Patrick :)'s Spock.
+Round 62: Patrick :)'s Paper beats Trickster's Rock.
+Round 63: Patrick :)'s Rock beats Trickster's Lizard.
+Round 64: Patrick :)'s Lizard beats Trickster's Spock.
+Round 65: Patrick :)'s Spock beats Trickster's Scissors.
+Round 66: Patrick :)'s Scissors beats Trickster's Paper.
+Round 67: Trickster's Rock beats Patrick :)'s Scissors.
+Round 68: Patrick :)'s Rock beats Trickster's Lizard.
+Round 69: Patrick :)'s Paper beats Trickster's Spock.
+Round 70: Patrick :) and Trickster both played Scissors.
+Round 71: Patrick :)'s Scissors beats Trickster's Paper.
+Round 72: Patrick :)'s Paper beats Trickster's Rock.
+Round 73: Trickster's Lizard beats Patrick :)'s Paper.
+Round 74: Patrick :) and Trickster both played Spock.
+Round 75: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 76: Trickster's Paper beats Patrick :)'s Rock.
+Round 77: Patrick :)'s Paper beats Trickster's Rock.
+Round 78: Patrick :)'s Rock beats Trickster's Lizard.
+Round 79: Trickster's Spock beats Patrick :)'s Rock.
+Round 80: Patrick :)'s Spock beats Trickster's Scissors.
+Round 81: Patrick :) and Trickster both played Paper.
+Round 82: Patrick :)'s Paper beats Trickster's Rock.
+Round 83: Patrick :)'s Rock beats Trickster's Lizard.
+Round 84: Patrick :)'s Lizard beats Trickster's Spock.
+Round 85: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 86: Patrick :)'s Scissors beats Trickster's Paper.
+Round 87: Patrick :)'s Paper beats Trickster's Rock.
+Round 88: Patrick :)'s Rock beats Trickster's Lizard.
+Round 89: Patrick :)'s Lizard beats Trickster's Spock.
+Round 90: Patrick :)'s Spock beats Trickster's Scissors.
+Round 91: Trickster's Paper beats Patrick :)'s Spock.
+Round 92: Patrick :)'s Paper beats Trickster's Rock.
+Round 93: Patrick :)'s Rock beats Trickster's Lizard.
+Round 94: Patrick :)'s Lizard beats Trickster's Spock.
+Round 95: Patrick :)'s Spock beats Trickster's Scissors.
+Round 96: Patrick :)'s Scissors beats Trickster's Paper.
+Round 97: Trickster's Rock beats Patrick :)'s Scissors.
+Round 98: Trickster's Lizard beats Patrick :)'s Spock.
+Round 99: Patrick :)'s Lizard beats Trickster's Spock.
+Round 100: Patrick :)'s Rock beats Trickster's Scissors.
+Patrick :) won 65 rounds and Trickster won 28 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 10 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Trickster's Spock beats Patrick :)'s Scissors.
+Round 2: Patrick :)'s Spock beats Trickster's Scissors.
+Round 3: Patrick :)'s Lizard beats Trickster's Paper.
+Round 4: Patrick :) and Trickster both played Rock.
+Round 5: Trickster's Lizard beats Patrick :)'s Paper.
+Round 6: Trickster's Spock beats Patrick :)'s Scissors.
+Round 7: Patrick :)'s Spock beats Trickster's Scissors.
+Round 8: Patrick :)'s Lizard beats Trickster's Paper.
+Round 9: Patrick :)'s Paper beats Trickster's Rock.
+Round 10: Patrick :)'s Rock beats Trickster's Lizard.
+Round 11: Patrick :)'s Lizard beats Trickster's Spock.
+Round 12: Patrick :)'s Spock beats Trickster's Scissors.
+Round 13: Trickster's Paper beats Patrick :)'s Spock.
+Round 14: Patrick :)'s Paper beats Trickster's Rock.
+Round 15: Patrick :)'s Rock beats Trickster's Lizard.
+Round 16: Patrick :)'s Lizard beats Trickster's Spock.
+Round 17: Patrick :)'s Spock beats Trickster's Scissors.
+Round 18: Patrick :)'s Scissors beats Trickster's Paper.
+Round 19: Trickster's Rock beats Patrick :)'s Scissors.
+Round 20: Patrick :)'s Rock beats Trickster's Lizard.
+Round 21: Patrick :)'s Paper beats Trickster's Spock.
+Round 22: Patrick :) and Trickster both played Scissors.
+Round 23: Patrick :)'s Scissors beats Trickster's Paper.
+Round 24: Patrick :)'s Paper beats Trickster's Rock.
+Round 25: Trickster's Lizard beats Patrick :)'s Paper.
+Round 26: Patrick :) and Trickster both played Spock.
+Round 27: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 28: Trickster's Paper beats Patrick :)'s Rock.
+Round 29: Patrick :)'s Paper beats Trickster's Rock.
+Round 30: Patrick :)'s Rock beats Trickster's Lizard.
+Round 31: Trickster's Spock beats Patrick :)'s Rock.
+Round 32: Patrick :)'s Spock beats Trickster's Scissors.
+Round 33: Patrick :) and Trickster both played Paper.
+Round 34: Patrick :)'s Paper beats Trickster's Rock.
+Round 35: Patrick :)'s Rock beats Trickster's Lizard.
+Round 36: Patrick :)'s Lizard beats Trickster's Spock.
+Round 37: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 38: Patrick :)'s Scissors beats Trickster's Paper.
+Round 39: Patrick :)'s Paper beats Trickster's Rock.
+Round 40: Patrick :)'s Rock beats Trickster's Lizard.
+Round 41: Patrick :)'s Lizard beats Trickster's Spock.
+Round 42: Patrick :)'s Spock beats Trickster's Scissors.
+Round 43: Trickster's Paper beats Patrick :)'s Spock.
+Round 44: Patrick :)'s Paper beats Trickster's Rock.
+Round 45: Patrick :)'s Rock beats Trickster's Lizard.
+Round 46: Patrick :)'s Lizard beats Trickster's Spock.
+Round 47: Patrick :)'s Spock beats Trickster's Scissors.
+Round 48: Patrick :)'s Scissors beats Trickster's Paper.
+Round 49: Trickster's Rock beats Patrick :)'s Scissors.
+Round 50: Trickster's Lizard beats Patrick :)'s Spock.
+Round 51: Patrick :)'s Lizard beats Trickster's Spock.
+Round 52: Patrick :)'s Rock beats Trickster's Scissors.
+Round 53: Patrick :)'s Scissors beats Trickster's Paper.
+Round 54: Patrick :)'s Paper beats Trickster's Rock.
+Round 55: Trickster's Lizard beats Patrick :)'s Paper.
+Round 56: Patrick :)'s Paper beats Trickster's Spock.
+Round 57: Patrick :) and Trickster both played Scissors.
+Round 58: Trickster's Paper beats Patrick :)'s Spock.
+Round 59: Patrick :)'s Paper beats Trickster's Rock.
+Round 60: Patrick :)'s Rock beats Trickster's Lizard.
+Round 61: Trickster's Spock beats Patrick :)'s Rock.
+Round 62: Patrick :)'s Spock beats Trickster's Scissors.
+Round 63: Patrick :)'s Lizard beats Trickster's Paper.
+Round 64: Patrick :)'s Paper beats Trickster's Rock.
+Round 65: Patrick :)'s Rock beats Trickster's Lizard.
+Round 66: Patrick :)'s Lizard beats Trickster's Spock.
+Round 67: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 68: Trickster's Paper beats Patrick :)'s Rock.
+Round 69: Patrick :)'s Paper beats Trickster's Rock.
+Round 70: Patrick :)'s Rock beats Trickster's Lizard.
+Round 71: Patrick :)'s Lizard beats Trickster's Spock.
+Round 72: Patrick :)'s Spock beats Trickster's Scissors.
+Round 73: Trickster's Paper beats Patrick :)'s Spock.
+Round 74: Patrick :)'s Paper beats Trickster's Rock.
+Round 75: Patrick :)'s Rock beats Trickster's Lizard.
+Round 76: Patrick :)'s Lizard beats Trickster's Spock.
+Round 77: Patrick :)'s Spock beats Trickster's Scissors.
+Round 78: Patrick :)'s Scissors beats Trickster's Paper.
+Round 79: Trickster's Rock beats Patrick :)'s Scissors.
+Round 80: Trickster's Lizard beats Patrick :)'s Paper.
+Round 81: Trickster's Spock beats Patrick :)'s Scissors.
+Round 82: Patrick :)'s Spock beats Trickster's Scissors.
+Round 83: Patrick :)'s Scissors beats Trickster's Paper.
+Round 84: Patrick :)'s Paper beats Trickster's Rock.
+Round 85: Trickster's Lizard beats Patrick :)'s Paper.
+Round 86: Patrick :)'s Lizard beats Trickster's Spock.
+Round 87: Patrick :)'s Rock beats Trickster's Scissors.
+Round 88: Patrick :) and Trickster both played Paper.
+Round 89: Patrick :)'s Paper beats Trickster's Rock.
+Round 90: Patrick :)'s Rock beats Trickster's Lizard.
+Round 91: Trickster's Spock beats Patrick :)'s Rock.
+Round 92: Patrick :)'s Spock beats Trickster's Scissors.
+Round 93: Patrick :)'s Scissors beats Trickster's Paper.
+Round 94: Patrick :)'s Paper beats Trickster's Rock.
+Round 95: Patrick :)'s Rock beats Trickster's Lizard.
+Round 96: Patrick :)'s Lizard beats Trickster's Spock.
+Round 97: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 98: Trickster's Paper beats Patrick :)'s Spock.
+Round 99: Patrick :)'s Paper beats Trickster's Rock.
+Round 100: Patrick :)'s Rock beats Trickster's Lizard.
+Patrick :) won 68 rounds and Trickster won 26 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 11 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :)'s Scissors beats Trickster's Paper.
+Round 2: Patrick :)'s Spock beats Trickster's Rock.
+Round 3: Patrick :) and Trickster both played Lizard.
+Round 4: Trickster's Spock beats Patrick :)'s Rock.
+Round 5: Trickster's Scissors beats Patrick :)'s Paper.
+Round 6: Patrick :)'s Scissors beats Trickster's Paper.
+Round 7: Patrick :)'s Spock beats Trickster's Rock.
+Round 8: Patrick :) and Trickster both played Lizard.
+Round 9: Trickster's Spock beats Patrick :)'s Rock.
+Round 10: Trickster's Scissors beats Patrick :)'s Paper.
+Round 11: Patrick :)'s Scissors beats Trickster's Paper.
+Round 12: Patrick :)'s Paper beats Trickster's Rock.
+Round 13: Trickster's Lizard beats Patrick :)'s Paper.
+Round 14: Trickster's Spock beats Patrick :)'s Scissors.
+Round 15: Patrick :)'s Spock beats Trickster's Scissors.
+Round 16: Patrick :)'s Lizard beats Trickster's Paper.
+Round 17: Patrick :)'s Paper beats Trickster's Rock.
+Round 18: Patrick :)'s Rock beats Trickster's Lizard.
+Round 19: Trickster's Spock beats Patrick :)'s Rock.
+Round 20: Patrick :)'s Spock beats Trickster's Scissors.
+Round 21: Trickster's Paper beats Patrick :)'s Rock.
+Round 22: Patrick :)'s Paper beats Trickster's Rock.
+Round 23: Patrick :)'s Rock beats Trickster's Lizard.
+Round 24: Patrick :)'s Lizard beats Trickster's Spock.
+Round 25: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 26: Patrick :) and Trickster both played Paper.
+Round 27: Patrick :)'s Paper beats Trickster's Rock.
+Round 28: Patrick :)'s Rock beats Trickster's Lizard.
+Round 29: Patrick :)'s Lizard beats Trickster's Spock.
+Round 30: Patrick :)'s Spock beats Trickster's Scissors.
+Round 31: Trickster's Paper beats Patrick :)'s Spock.
+Round 32: Patrick :)'s Paper beats Trickster's Rock.
+Round 33: Patrick :)'s Rock beats Trickster's Lizard.
+Round 34: Patrick :)'s Lizard beats Trickster's Spock.
+Round 35: Patrick :)'s Spock beats Trickster's Scissors.
+Round 36: Patrick :)'s Scissors beats Trickster's Paper.
+Round 37: Trickster's Rock beats Patrick :)'s Scissors.
+Round 38: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 39: Patrick :) and Trickster both played Spock.
+Round 40: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 41: Patrick :)'s Scissors beats Trickster's Paper.
+Round 42: Patrick :)'s Paper beats Trickster's Rock.
+Round 43: Trickster's Lizard beats Patrick :)'s Paper.
+Round 44: Trickster's Spock beats Patrick :)'s Rock.
+Round 45: Trickster's Scissors beats Patrick :)'s Paper.
+Round 46: Patrick :)'s Scissors beats Trickster's Paper.
+Round 47: Patrick :)'s Paper beats Trickster's Rock.
+Round 48: Patrick :)'s Rock beats Trickster's Lizard.
+Round 49: Trickster's Spock beats Patrick :)'s Rock.
+Round 50: Patrick :)'s Spock beats Trickster's Scissors.
+Round 51: Trickster's Paper beats Patrick :)'s Spock.
+Round 52: Patrick :)'s Paper beats Trickster's Rock.
+Round 53: Patrick :)'s Rock beats Trickster's Lizard.
+Round 54: Patrick :)'s Lizard beats Trickster's Spock.
+Round 55: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 56: Patrick :)'s Lizard beats Trickster's Paper.
+Round 57: Patrick :)'s Paper beats Trickster's Rock.
+Round 58: Patrick :)'s Rock beats Trickster's Lizard.
+Round 59: Patrick :)'s Lizard beats Trickster's Spock.
+Round 60: Patrick :)'s Spock beats Trickster's Scissors.
+Round 61: Trickster's Paper beats Patrick :)'s Spock.
+Round 62: Patrick :)'s Paper beats Trickster's Rock.
+Round 63: Patrick :)'s Rock beats Trickster's Lizard.
+Round 64: Patrick :)'s Lizard beats Trickster's Spock.
+Round 65: Patrick :)'s Spock beats Trickster's Scissors.
+Round 66: Patrick :)'s Scissors beats Trickster's Paper.
+Round 67: Trickster's Rock beats Patrick :)'s Scissors.
+Round 68: Patrick :)'s Rock beats Trickster's Lizard.
+Round 69: Patrick :)'s Paper beats Trickster's Spock.
+Round 70: Patrick :) and Trickster both played Scissors.
+Round 71: Patrick :)'s Scissors beats Trickster's Paper.
+Round 72: Patrick :)'s Paper beats Trickster's Rock.
+Round 73: Trickster's Lizard beats Patrick :)'s Paper.
+Round 74: Patrick :) and Trickster both played Spock.
+Round 75: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 76: Trickster's Paper beats Patrick :)'s Rock.
+Round 77: Patrick :)'s Paper beats Trickster's Rock.
+Round 78: Patrick :)'s Rock beats Trickster's Lizard.
+Round 79: Trickster's Spock beats Patrick :)'s Rock.
+Round 80: Patrick :)'s Spock beats Trickster's Scissors.
+Round 81: Patrick :) and Trickster both played Paper.
+Round 82: Patrick :)'s Paper beats Trickster's Rock.
+Round 83: Patrick :)'s Rock beats Trickster's Lizard.
+Round 84: Patrick :)'s Lizard beats Trickster's Spock.
+Round 85: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 86: Patrick :)'s Scissors beats Trickster's Paper.
+Round 87: Patrick :)'s Paper beats Trickster's Rock.
+Round 88: Patrick :)'s Rock beats Trickster's Lizard.
+Round 89: Patrick :)'s Lizard beats Trickster's Spock.
+Round 90: Patrick :)'s Spock beats Trickster's Scissors.
+Round 91: Trickster's Paper beats Patrick :)'s Spock.
+Round 92: Patrick :)'s Paper beats Trickster's Rock.
+Round 93: Patrick :)'s Rock beats Trickster's Lizard.
+Round 94: Patrick :)'s Lizard beats Trickster's Spock.
+Round 95: Patrick :)'s Spock beats Trickster's Scissors.
+Round 96: Patrick :)'s Scissors beats Trickster's Paper.
+Round 97: Trickster's Rock beats Patrick :)'s Scissors.
+Round 98: Trickster's Lizard beats Patrick :)'s Spock.
+Round 99: Patrick :)'s Lizard beats Trickster's Spock.
+Round 100: Patrick :)'s Rock beats Trickster's Scissors.
+Patrick :) won 65 rounds and Trickster won 28 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 12 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Trickster's Spock beats Patrick :)'s Scissors.
+Round 2: Patrick :)'s Spock beats Trickster's Scissors.
+Round 3: Patrick :)'s Lizard beats Trickster's Paper.
+Round 4: Patrick :) and Trickster both played Rock.
+Round 5: Trickster's Lizard beats Patrick :)'s Paper.
+Round 6: Trickster's Spock beats Patrick :)'s Scissors.
+Round 7: Patrick :)'s Spock beats Trickster's Scissors.
+Round 8: Patrick :)'s Lizard beats Trickster's Paper.
+Round 9: Patrick :)'s Paper beats Trickster's Rock.
+Round 10: Patrick :)'s Rock beats Trickster's Lizard.
+Round 11: Patrick :)'s Lizard beats Trickster's Spock.
+Round 12: Patrick :)'s Spock beats Trickster's Scissors.
+Round 13: Trickster's Paper beats Patrick :)'s Spock.
+Round 14: Patrick :)'s Paper beats Trickster's Rock.
+Round 15: Patrick :)'s Rock beats Trickster's Lizard.
+Round 16: Patrick :)'s Lizard beats Trickster's Spock.
+Round 17: Patrick :)'s Spock beats Trickster's Scissors.
+Round 18: Patrick :)'s Scissors beats Trickster's Paper.
+Round 19: Trickster's Rock beats Patrick :)'s Scissors.
+Round 20: Patrick :)'s Rock beats Trickster's Lizard.
+Round 21: Patrick :)'s Paper beats Trickster's Spock.
+Round 22: Patrick :) and Trickster both played Scissors.
+Round 23: Patrick :)'s Scissors beats Trickster's Paper.
+Round 24: Patrick :)'s Paper beats Trickster's Rock.
+Round 25: Trickster's Lizard beats Patrick :)'s Paper.
+Round 26: Patrick :) and Trickster both played Spock.
+Round 27: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 28: Trickster's Paper beats Patrick :)'s Rock.
+Round 29: Patrick :)'s Paper beats Trickster's Rock.
+Round 30: Patrick :)'s Rock beats Trickster's Lizard.
+Round 31: Trickster's Spock beats Patrick :)'s Rock.
+Round 32: Patrick :)'s Spock beats Trickster's Scissors.
+Round 33: Patrick :) and Trickster both played Paper.
+Round 34: Patrick :)'s Paper beats Trickster's Rock.
+Round 35: Patrick :)'s Rock beats Trickster's Lizard.
+Round 36: Patrick :)'s Lizard beats Trickster's Spock.
+Round 37: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 38: Patrick :)'s Scissors beats Trickster's Paper.
+Round 39: Patrick :)'s Paper beats Trickster's Rock.
+Round 40: Patrick :)'s Rock beats Trickster's Lizard.
+Round 41: Patrick :)'s Lizard beats Trickster's Spock.
+Round 42: Patrick :)'s Spock beats Trickster's Scissors.
+Round 43: Trickster's Paper beats Patrick :)'s Spock.
+Round 44: Patrick :)'s Paper beats Trickster's Rock.
+Round 45: Patrick :)'s Rock beats Trickster's Lizard.
+Round 46: Patrick :)'s Lizard beats Trickster's Spock.
+Round 47: Patrick :)'s Spock beats Trickster's Scissors.
+Round 48: Patrick :)'s Scissors beats Trickster's Paper.
+Round 49: Trickster's Rock beats Patrick :)'s Scissors.
+Round 50: Trickster's Lizard beats Patrick :)'s Spock.
+Round 51: Patrick :)'s Lizard beats Trickster's Spock.
+Round 52: Patrick :)'s Rock beats Trickster's Scissors.
+Round 53: Patrick :)'s Scissors beats Trickster's Paper.
+Round 54: Patrick :)'s Paper beats Trickster's Rock.
+Round 55: Trickster's Lizard beats Patrick :)'s Paper.
+Round 56: Patrick :)'s Paper beats Trickster's Spock.
+Round 57: Patrick :) and Trickster both played Scissors.
+Round 58: Trickster's Paper beats Patrick :)'s Spock.
+Round 59: Patrick :)'s Paper beats Trickster's Rock.
+Round 60: Patrick :)'s Rock beats Trickster's Lizard.
+Round 61: Trickster's Spock beats Patrick :)'s Rock.
+Round 62: Patrick :)'s Spock beats Trickster's Scissors.
+Round 63: Patrick :)'s Lizard beats Trickster's Paper.
+Round 64: Patrick :)'s Paper beats Trickster's Rock.
+Round 65: Patrick :)'s Rock beats Trickster's Lizard.
+Round 66: Patrick :)'s Lizard beats Trickster's Spock.
+Round 67: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 68: Trickster's Paper beats Patrick :)'s Rock.
+Round 69: Patrick :)'s Paper beats Trickster's Rock.
+Round 70: Patrick :)'s Rock beats Trickster's Lizard.
+Round 71: Patrick :)'s Lizard beats Trickster's Spock.
+Round 72: Patrick :)'s Spock beats Trickster's Scissors.
+Round 73: Trickster's Paper beats Patrick :)'s Spock.
+Round 74: Patrick :)'s Paper beats Trickster's Rock.
+Round 75: Patrick :)'s Rock beats Trickster's Lizard.
+Round 76: Patrick :)'s Lizard beats Trickster's Spock.
+Round 77: Patrick :)'s Spock beats Trickster's Scissors.
+Round 78: Patrick :)'s Scissors beats Trickster's Paper.
+Round 79: Trickster's Rock beats Patrick :)'s Scissors.
+Round 80: Trickster's Lizard beats Patrick :)'s Paper.
+Round 81: Trickster's Spock beats Patrick :)'s Scissors.
+Round 82: Patrick :)'s Spock beats Trickster's Scissors.
+Round 83: Patrick :)'s Scissors beats Trickster's Paper.
+Round 84: Patrick :)'s Paper beats Trickster's Rock.
+Round 85: Trickster's Lizard beats Patrick :)'s Paper.
+Round 86: Patrick :)'s Lizard beats Trickster's Spock.
+Round 87: Patrick :)'s Rock beats Trickster's Scissors.
+Round 88: Patrick :) and Trickster both played Paper.
+Round 89: Patrick :)'s Paper beats Trickster's Rock.
+Round 90: Patrick :)'s Rock beats Trickster's Lizard.
+Round 91: Trickster's Spock beats Patrick :)'s Rock.
+Round 92: Patrick :)'s Spock beats Trickster's Scissors.
+Round 93: Patrick :)'s Scissors beats Trickster's Paper.
+Round 94: Patrick :)'s Paper beats Trickster's Rock.
+Round 95: Patrick :)'s Rock beats Trickster's Lizard.
+Round 96: Patrick :)'s Lizard beats Trickster's Spock.
+Round 97: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 98: Trickster's Paper beats Patrick :)'s Spock.
+Round 99: Patrick :)'s Paper beats Trickster's Rock.
+Round 100: Patrick :)'s Rock beats Trickster's Lizard.
+Patrick :) won 68 rounds and Trickster won 26 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 13 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Trickster's Rock beats Patrick :)'s Scissors.
+Round 2: Trickster's Lizard beats Patrick :)'s Spock.
+Round 3: Patrick :)'s Lizard beats Trickster's Spock.
+Round 4: Patrick :)'s Rock beats Trickster's Scissors.
+Round 5: Patrick :) and Trickster both played Paper.
+Round 6: Trickster's Rock beats Patrick :)'s Scissors.
+Round 7: Trickster's Lizard beats Patrick :)'s Spock.
+Round 8: Patrick :)'s Lizard beats Trickster's Spock.
+Round 9: Patrick :)'s Rock beats Trickster's Scissors.
+Round 10: Patrick :) and Trickster both played Paper.
+Round 11: Patrick :)'s Paper beats Trickster's Rock.
+Round 12: Patrick :)'s Rock beats Trickster's Lizard.
+Round 13: Trickster's Spock beats Patrick :)'s Rock.
+Round 14: Patrick :)'s Spock beats Trickster's Scissors.
+Round 15: Patrick :)'s Scissors beats Trickster's Paper.
+Round 16: Patrick :)'s Paper beats Trickster's Rock.
+Round 17: Patrick :)'s Rock beats Trickster's Lizard.
+Round 18: Patrick :)'s Lizard beats Trickster's Spock.
+Round 19: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 20: Trickster's Paper beats Patrick :)'s Spock.
+Round 21: Patrick :)'s Paper beats Trickster's Rock.
+Round 22: Patrick :)'s Rock beats Trickster's Lizard.
+Round 23: Patrick :)'s Lizard beats Trickster's Spock.
+Round 24: Patrick :)'s Spock beats Trickster's Scissors.
+Round 25: Trickster's Paper beats Patrick :)'s Spock.
+Round 26: Patrick :)'s Paper beats Trickster's Rock.
+Round 27: Patrick :)'s Rock beats Trickster's Lizard.
+Round 28: Patrick :)'s Lizard beats Trickster's Spock.
+Round 29: Patrick :)'s Spock beats Trickster's Scissors.
+Round 30: Patrick :)'s Scissors beats Trickster's Paper.
+Round 31: Trickster's Rock beats Patrick :)'s Scissors.
+Round 32: Patrick :) and Trickster both played Lizard.
+Round 33: Trickster's Spock beats Patrick :)'s Rock.
+Round 34: Trickster's Scissors beats Patrick :)'s Paper.
+Round 35: Patrick :)'s Scissors beats Trickster's Paper.
+Round 36: Patrick :)'s Paper beats Trickster's Rock.
+Round 37: Trickster's Lizard beats Patrick :)'s Paper.
+Round 38: Trickster's Spock beats Patrick :)'s Scissors.
+Round 39: Patrick :)'s Spock beats Trickster's Scissors.
+Round 40: Patrick :)'s Lizard beats Trickster's Paper.
+Round 41: Patrick :)'s Paper beats Trickster's Rock.
+Round 42: Patrick :)'s Rock beats Trickster's Lizard.
+Round 43: Trickster's Spock beats Patrick :)'s Rock.
+Round 44: Patrick :)'s Spock beats Trickster's Scissors.
+Round 45: Trickster's Paper beats Patrick :)'s Rock.
+Round 46: Patrick :)'s Paper beats Trickster's Rock.
+Round 47: Patrick :)'s Rock beats Trickster's Lizard.
+Round 48: Patrick :)'s Lizard beats Trickster's Spock.
+Round 49: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 50: Patrick :) and Trickster both played Paper.
+Round 51: Patrick :)'s Paper beats Trickster's Rock.
+Round 52: Patrick :)'s Rock beats Trickster's Lizard.
+Round 53: Patrick :)'s Lizard beats Trickster's Spock.
+Round 54: Patrick :)'s Spock beats Trickster's Scissors.
+Round 55: Trickster's Paper beats Patrick :)'s Spock.
+Round 56: Patrick :)'s Paper beats Trickster's Rock.
+Round 57: Patrick :)'s Rock beats Trickster's Lizard.
+Round 58: Patrick :)'s Lizard beats Trickster's Spock.
+Round 59: Patrick :)'s Spock beats Trickster's Scissors.
+Round 60: Patrick :)'s Scissors beats Trickster's Paper.
+Round 61: Trickster's Rock beats Patrick :)'s Scissors.
+Round 62: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 63: Patrick :) and Trickster both played Spock.
+Round 64: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 65: Patrick :)'s Scissors beats Trickster's Paper.
+Round 66: Patrick :)'s Paper beats Trickster's Rock.
+Round 67: Trickster's Lizard beats Patrick :)'s Paper.
+Round 68: Trickster's Spock beats Patrick :)'s Rock.
+Round 69: Trickster's Scissors beats Patrick :)'s Paper.
+Round 70: Patrick :)'s Scissors beats Trickster's Paper.
+Round 71: Patrick :)'s Paper beats Trickster's Rock.
+Round 72: Patrick :)'s Rock beats Trickster's Lizard.
+Round 73: Trickster's Spock beats Patrick :)'s Rock.
+Round 74: Patrick :)'s Spock beats Trickster's Scissors.
+Round 75: Trickster's Paper beats Patrick :)'s Spock.
+Round 76: Patrick :)'s Paper beats Trickster's Rock.
+Round 77: Patrick :)'s Rock beats Trickster's Lizard.
+Round 78: Patrick :)'s Lizard beats Trickster's Spock.
+Round 79: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 80: Patrick :)'s Lizard beats Trickster's Paper.
+Round 81: Patrick :)'s Paper beats Trickster's Rock.
+Round 82: Patrick :)'s Rock beats Trickster's Lizard.
+Round 83: Patrick :)'s Lizard beats Trickster's Spock.
+Round 84: Patrick :)'s Spock beats Trickster's Scissors.
+Round 85: Trickster's Paper beats Patrick :)'s Spock.
+Round 86: Patrick :)'s Paper beats Trickster's Rock.
+Round 87: Patrick :)'s Rock beats Trickster's Lizard.
+Round 88: Patrick :)'s Lizard beats Trickster's Spock.
+Round 89: Patrick :)'s Spock beats Trickster's Scissors.
+Round 90: Patrick :)'s Scissors beats Trickster's Paper.
+Round 91: Trickster's Rock beats Patrick :)'s Scissors.
+Round 92: Patrick :)'s Rock beats Trickster's Lizard.
+Round 93: Patrick :)'s Paper beats Trickster's Spock.
+Round 94: Patrick :) and Trickster both played Scissors.
+Round 95: Patrick :)'s Scissors beats Trickster's Paper.
+Round 96: Patrick :)'s Paper beats Trickster's Rock.
+Round 97: Trickster's Lizard beats Patrick :)'s Paper.
+Round 98: Patrick :) and Trickster both played Spock.
+Round 99: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 100: Trickster's Paper beats Patrick :)'s Rock.
+Patrick :) won 63 rounds and Trickster won 30 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 14 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Trickster's Spock beats Patrick :)'s Scissors.
+Round 2: Patrick :)'s Spock beats Trickster's Scissors.
+Round 3: Patrick :)'s Lizard beats Trickster's Paper.
+Round 4: Patrick :) and Trickster both played Rock.
+Round 5: Trickster's Lizard beats Patrick :)'s Paper.
+Round 6: Trickster's Spock beats Patrick :)'s Scissors.
+Round 7: Patrick :)'s Spock beats Trickster's Scissors.
+Round 8: Patrick :)'s Lizard beats Trickster's Paper.
+Round 9: Patrick :)'s Paper beats Trickster's Rock.
+Round 10: Patrick :)'s Rock beats Trickster's Lizard.
+Round 11: Patrick :)'s Lizard beats Trickster's Spock.
+Round 12: Patrick :)'s Spock beats Trickster's Scissors.
+Round 13: Trickster's Paper beats Patrick :)'s Spock.
+Round 14: Patrick :)'s Paper beats Trickster's Rock.
+Round 15: Patrick :)'s Rock beats Trickster's Lizard.
+Round 16: Patrick :)'s Lizard beats Trickster's Spock.
+Round 17: Patrick :)'s Spock beats Trickster's Scissors.
+Round 18: Patrick :)'s Scissors beats Trickster's Paper.
+Round 19: Trickster's Rock beats Patrick :)'s Scissors.
+Round 20: Patrick :)'s Rock beats Trickster's Lizard.
+Round 21: Patrick :)'s Paper beats Trickster's Spock.
+Round 22: Patrick :) and Trickster both played Scissors.
+Round 23: Patrick :)'s Scissors beats Trickster's Paper.
+Round 24: Patrick :)'s Paper beats Trickster's Rock.
+Round 25: Trickster's Lizard beats Patrick :)'s Paper.
+Round 26: Patrick :) and Trickster both played Spock.
+Round 27: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 28: Trickster's Paper beats Patrick :)'s Rock.
+Round 29: Patrick :)'s Paper beats Trickster's Rock.
+Round 30: Patrick :)'s Rock beats Trickster's Lizard.
+Round 31: Trickster's Spock beats Patrick :)'s Rock.
+Round 32: Patrick :)'s Spock beats Trickster's Scissors.
+Round 33: Patrick :) and Trickster both played Paper.
+Round 34: Patrick :)'s Paper beats Trickster's Rock.
+Round 35: Patrick :)'s Rock beats Trickster's Lizard.
+Round 36: Patrick :)'s Lizard beats Trickster's Spock.
+Round 37: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 38: Patrick :)'s Scissors beats Trickster's Paper.
+Round 39: Patrick :)'s Paper beats Trickster's Rock.
+Round 40: Patrick :)'s Rock beats Trickster's Lizard.
+Round 41: Patrick :)'s Lizard beats Trickster's Spock.
+Round 42: Patrick :)'s Spock beats Trickster's Scissors.
+Round 43: Trickster's Paper beats Patrick :)'s Spock.
+Round 44: Patrick :)'s Paper beats Trickster's Rock.
+Round 45: Patrick :)'s Rock beats Trickster's Lizard.
+Round 46: Patrick :)'s Lizard beats Trickster's Spock.
+Round 47: Patrick :)'s Spock beats Trickster's Scissors.
+Round 48: Patrick :)'s Scissors beats Trickster's Paper.
+Round 49: Trickster's Rock beats Patrick :)'s Scissors.
+Round 50: Trickster's Lizard beats Patrick :)'s Spock.
+Round 51: Patrick :)'s Lizard beats Trickster's Spock.
+Round 52: Patrick :)'s Rock beats Trickster's Scissors.
+Round 53: Patrick :)'s Scissors beats Trickster's Paper.
+Round 54: Patrick :)'s Paper beats Trickster's Rock.
+Round 55: Trickster's Lizard beats Patrick :)'s Paper.
+Round 56: Patrick :)'s Paper beats Trickster's Spock.
+Round 57: Patrick :) and Trickster both played Scissors.
+Round 58: Trickster's Paper beats Patrick :)'s Spock.
+Round 59: Patrick :)'s Paper beats Trickster's Rock.
+Round 60: Patrick :)'s Rock beats Trickster's Lizard.
+Round 61: Trickster's Spock beats Patrick :)'s Rock.
+Round 62: Patrick :)'s Spock beats Trickster's Scissors.
+Round 63: Patrick :)'s Lizard beats Trickster's Paper.
+Round 64: Patrick :)'s Paper beats Trickster's Rock.
+Round 65: Patrick :)'s Rock beats Trickster's Lizard.
+Round 66: Patrick :)'s Lizard beats Trickster's Spock.
+Round 67: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 68: Trickster's Paper beats Patrick :)'s Rock.
+Round 69: Patrick :)'s Paper beats Trickster's Rock.
+Round 70: Patrick :)'s Rock beats Trickster's Lizard.
+Round 71: Patrick :)'s Lizard beats Trickster's Spock.
+Round 72: Patrick :)'s Spock beats Trickster's Scissors.
+Round 73: Trickster's Paper beats Patrick :)'s Spock.
+Round 74: Patrick :)'s Paper beats Trickster's Rock.
+Round 75: Patrick :)'s Rock beats Trickster's Lizard.
+Round 76: Patrick :)'s Lizard beats Trickster's Spock.
+Round 77: Patrick :)'s Spock beats Trickster's Scissors.
+Round 78: Patrick :)'s Scissors beats Trickster's Paper.
+Round 79: Trickster's Rock beats Patrick :)'s Scissors.
+Round 80: Trickster's Lizard beats Patrick :)'s Paper.
+Round 81: Trickster's Spock beats Patrick :)'s Scissors.
+Round 82: Patrick :)'s Spock beats Trickster's Scissors.
+Round 83: Patrick :)'s Scissors beats Trickster's Paper.
+Round 84: Patrick :)'s Paper beats Trickster's Rock.
+Round 85: Trickster's Lizard beats Patrick :)'s Paper.
+Round 86: Patrick :)'s Lizard beats Trickster's Spock.
+Round 87: Patrick :)'s Rock beats Trickster's Scissors.
+Round 88: Patrick :) and Trickster both played Paper.
+Round 89: Patrick :)'s Paper beats Trickster's Rock.
+Round 90: Patrick :)'s Rock beats Trickster's Lizard.
+Round 91: Trickster's Spock beats Patrick :)'s Rock.
+Round 92: Patrick :)'s Spock beats Trickster's Scissors.
+Round 93: Patrick :)'s Scissors beats Trickster's Paper.
+Round 94: Patrick :)'s Paper beats Trickster's Rock.
+Round 95: Patrick :)'s Rock beats Trickster's Lizard.
+Round 96: Patrick :)'s Lizard beats Trickster's Spock.
+Round 97: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 98: Trickster's Paper beats Patrick :)'s Spock.
+Round 99: Patrick :)'s Paper beats Trickster's Rock.
+Round 100: Patrick :)'s Rock beats Trickster's Lizard.
+Patrick :) won 68 rounds and Trickster won 26 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 15 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Trickster's Rock beats Patrick :)'s Scissors.
+Round 2: Trickster's Lizard beats Patrick :)'s Spock.
+Round 3: Patrick :)'s Lizard beats Trickster's Spock.
+Round 4: Patrick :)'s Rock beats Trickster's Scissors.
+Round 5: Patrick :) and Trickster both played Paper.
+Round 6: Trickster's Rock beats Patrick :)'s Scissors.
+Round 7: Trickster's Lizard beats Patrick :)'s Spock.
+Round 8: Patrick :)'s Lizard beats Trickster's Spock.
+Round 9: Patrick :)'s Rock beats Trickster's Scissors.
+Round 10: Patrick :) and Trickster both played Paper.
+Round 11: Patrick :)'s Paper beats Trickster's Rock.
+Round 12: Patrick :)'s Rock beats Trickster's Lizard.
+Round 13: Trickster's Spock beats Patrick :)'s Rock.
+Round 14: Patrick :)'s Spock beats Trickster's Scissors.
+Round 15: Patrick :)'s Scissors beats Trickster's Paper.
+Round 16: Patrick :)'s Paper beats Trickster's Rock.
+Round 17: Patrick :)'s Rock beats Trickster's Lizard.
+Round 18: Patrick :)'s Lizard beats Trickster's Spock.
+Round 19: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 20: Trickster's Paper beats Patrick :)'s Spock.
+Round 21: Patrick :)'s Paper beats Trickster's Rock.
+Round 22: Patrick :)'s Rock beats Trickster's Lizard.
+Round 23: Patrick :)'s Lizard beats Trickster's Spock.
+Round 24: Patrick :)'s Spock beats Trickster's Scissors.
+Round 25: Trickster's Paper beats Patrick :)'s Spock.
+Round 26: Patrick :)'s Paper beats Trickster's Rock.
+Round 27: Patrick :)'s Rock beats Trickster's Lizard.
+Round 28: Patrick :)'s Lizard beats Trickster's Spock.
+Round 29: Patrick :)'s Spock beats Trickster's Scissors.
+Round 30: Patrick :)'s Scissors beats Trickster's Paper.
+Round 31: Trickster's Rock beats Patrick :)'s Scissors.
+Round 32: Patrick :) and Trickster both played Lizard.
+Round 33: Trickster's Spock beats Patrick :)'s Rock.
+Round 34: Trickster's Scissors beats Patrick :)'s Paper.
+Round 35: Patrick :)'s Scissors beats Trickster's Paper.
+Round 36: Patrick :)'s Paper beats Trickster's Rock.
+Round 37: Trickster's Lizard beats Patrick :)'s Paper.
+Round 38: Trickster's Spock beats Patrick :)'s Scissors.
+Round 39: Patrick :)'s Spock beats Trickster's Scissors.
+Round 40: Patrick :)'s Lizard beats Trickster's Paper.
+Round 41: Patrick :)'s Paper beats Trickster's Rock.
+Round 42: Patrick :)'s Rock beats Trickster's Lizard.
+Round 43: Trickster's Spock beats Patrick :)'s Rock.
+Round 44: Patrick :)'s Spock beats Trickster's Scissors.
+Round 45: Trickster's Paper beats Patrick :)'s Rock.
+Round 46: Patrick :)'s Paper beats Trickster's Rock.
+Round 47: Patrick :)'s Rock beats Trickster's Lizard.
+Round 48: Patrick :)'s Lizard beats Trickster's Spock.
+Round 49: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 50: Patrick :) and Trickster both played Paper.
+Round 51: Patrick :)'s Paper beats Trickster's Rock.
+Round 52: Patrick :)'s Rock beats Trickster's Lizard.
+Round 53: Patrick :)'s Lizard beats Trickster's Spock.
+Round 54: Patrick :)'s Spock beats Trickster's Scissors.
+Round 55: Trickster's Paper beats Patrick :)'s Spock.
+Round 56: Patrick :)'s Paper beats Trickster's Rock.
+Round 57: Patrick :)'s Rock beats Trickster's Lizard.
+Round 58: Patrick :)'s Lizard beats Trickster's Spock.
+Round 59: Patrick :)'s Spock beats Trickster's Scissors.
+Round 60: Patrick :)'s Scissors beats Trickster's Paper.
+Round 61: Trickster's Rock beats Patrick :)'s Scissors.
+Round 62: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 63: Patrick :) and Trickster both played Spock.
+Round 64: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 65: Patrick :)'s Scissors beats Trickster's Paper.
+Round 66: Patrick :)'s Paper beats Trickster's Rock.
+Round 67: Trickster's Lizard beats Patrick :)'s Paper.
+Round 68: Trickster's Spock beats Patrick :)'s Rock.
+Round 69: Trickster's Scissors beats Patrick :)'s Paper.
+Round 70: Patrick :)'s Scissors beats Trickster's Paper.
+Round 71: Patrick :)'s Paper beats Trickster's Rock.
+Round 72: Patrick :)'s Rock beats Trickster's Lizard.
+Round 73: Trickster's Spock beats Patrick :)'s Rock.
+Round 74: Patrick :)'s Spock beats Trickster's Scissors.
+Round 75: Trickster's Paper beats Patrick :)'s Spock.
+Round 76: Patrick :)'s Paper beats Trickster's Rock.
+Round 77: Patrick :)'s Rock beats Trickster's Lizard.
+Round 78: Patrick :)'s Lizard beats Trickster's Spock.
+Round 79: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 80: Patrick :)'s Lizard beats Trickster's Paper.
+Round 81: Patrick :)'s Paper beats Trickster's Rock.
+Round 82: Patrick :)'s Rock beats Trickster's Lizard.
+Round 83: Patrick :)'s Lizard beats Trickster's Spock.
+Round 84: Patrick :)'s Spock beats Trickster's Scissors.
+Round 85: Trickster's Paper beats Patrick :)'s Spock.
+Round 86: Patrick :)'s Paper beats Trickster's Rock.
+Round 87: Patrick :)'s Rock beats Trickster's Lizard.
+Round 88: Patrick :)'s Lizard beats Trickster's Spock.
+Round 89: Patrick :)'s Spock beats Trickster's Scissors.
+Round 90: Patrick :)'s Scissors beats Trickster's Paper.
+Round 91: Trickster's Rock beats Patrick :)'s Scissors.
+Round 92: Patrick :)'s Rock beats Trickster's Lizard.
+Round 93: Patrick :)'s Paper beats Trickster's Spock.
+Round 94: Patrick :) and Trickster both played Scissors.
+Round 95: Patrick :)'s Scissors beats Trickster's Paper.
+Round 96: Patrick :)'s Paper beats Trickster's Rock.
+Round 97: Trickster's Lizard beats Patrick :)'s Paper.
+Round 98: Patrick :) and Trickster both played Spock.
+Round 99: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 100: Trickster's Paper beats Patrick :)'s Rock.
+Patrick :) won 63 rounds and Trickster won 30 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 16 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :) and Trickster both played Scissors.
+Round 2: Trickster's Paper beats Patrick :)'s Spock.
+Round 3: Trickster's Rock beats Patrick :)'s Lizard.
+Round 4: Patrick :)'s Rock beats Trickster's Lizard.
+Round 5: Patrick :)'s Paper beats Trickster's Spock.
+Round 6: Patrick :) and Trickster both played Scissors.
+Round 7: Trickster's Paper beats Patrick :)'s Spock.
+Round 8: Patrick :)'s Paper beats Trickster's Rock.
+Round 9: Patrick :)'s Rock beats Trickster's Lizard.
+Round 10: Patrick :)'s Lizard beats Trickster's Spock.
+Round 11: Patrick :)'s Spock beats Trickster's Scissors.
+Round 12: Patrick :)'s Scissors beats Trickster's Paper.
+Round 13: Trickster's Rock beats Patrick :)'s Scissors.
+Round 14: Patrick :) and Trickster both played Lizard.
+Round 15: Trickster's Spock beats Patrick :)'s Rock.
+Round 16: Trickster's Scissors beats Patrick :)'s Paper.
+Round 17: Patrick :)'s Scissors beats Trickster's Paper.
+Round 18: Patrick :)'s Paper beats Trickster's Rock.
+Round 19: Trickster's Lizard beats Patrick :)'s Paper.
+Round 20: Trickster's Spock beats Patrick :)'s Scissors.
+Round 21: Patrick :)'s Spock beats Trickster's Scissors.
+Round 22: Patrick :)'s Lizard beats Trickster's Paper.
+Round 23: Patrick :)'s Paper beats Trickster's Rock.
+Round 24: Patrick :)'s Rock beats Trickster's Lizard.
+Round 25: Trickster's Spock beats Patrick :)'s Rock.
+Round 26: Patrick :)'s Spock beats Trickster's Scissors.
+Round 27: Trickster's Paper beats Patrick :)'s Rock.
+Round 28: Patrick :)'s Paper beats Trickster's Rock.
+Round 29: Patrick :)'s Rock beats Trickster's Lizard.
+Round 30: Patrick :)'s Lizard beats Trickster's Spock.
+Round 31: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 32: Patrick :) and Trickster both played Paper.
+Round 33: Patrick :)'s Paper beats Trickster's Rock.
+Round 34: Patrick :)'s Rock beats Trickster's Lizard.
+Round 35: Patrick :)'s Lizard beats Trickster's Spock.
+Round 36: Patrick :)'s Spock beats Trickster's Scissors.
+Round 37: Trickster's Paper beats Patrick :)'s Spock.
+Round 38: Patrick :)'s Paper beats Trickster's Rock.
+Round 39: Patrick :)'s Rock beats Trickster's Lizard.
+Round 40: Patrick :)'s Lizard beats Trickster's Spock.
+Round 41: Patrick :)'s Spock beats Trickster's Scissors.
+Round 42: Patrick :)'s Scissors beats Trickster's Paper.
+Round 43: Trickster's Rock beats Patrick :)'s Scissors.
+Round 44: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 45: Patrick :) and Trickster both played Spock.
+Round 46: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 47: Patrick :)'s Scissors beats Trickster's Paper.
+Round 48: Patrick :)'s Paper beats Trickster's Rock.
+Round 49: Trickster's Lizard beats Patrick :)'s Paper.
+Round 50: Trickster's Spock beats Patrick :)'s Rock.
+Round 51: Trickster's Scissors beats Patrick :)'s Paper.
+Round 52: Patrick :)'s Scissors beats Trickster's Paper.
+Round 53: Patrick :)'s Paper beats Trickster's Rock.
+Round 54: Patrick :)'s Rock beats Trickster's Lizard.
+Round 55: Trickster's Spock beats Patrick :)'s Rock.
+Round 56: Patrick :)'s Spock beats Trickster's Scissors.
+Round 57: Trickster's Paper beats Patrick :)'s Spock.
+Round 58: Patrick :)'s Paper beats Trickster's Rock.
+Round 59: Patrick :)'s Rock beats Trickster's Lizard.
+Round 60: Patrick :)'s Lizard beats Trickster's Spock.
+Round 61: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 62: Patrick :)'s Lizard beats Trickster's Paper.
+Round 63: Patrick :)'s Paper beats Trickster's Rock.
+Round 64: Patrick :)'s Rock beats Trickster's Lizard.
+Round 65: Patrick :)'s Lizard beats Trickster's Spock.
+Round 66: Patrick :)'s Spock beats Trickster's Scissors.
+Round 67: Trickster's Paper beats Patrick :)'s Spock.
+Round 68: Patrick :)'s Paper beats Trickster's Rock.
+Round 69: Patrick :)'s Rock beats Trickster's Lizard.
+Round 70: Patrick :)'s Lizard beats Trickster's Spock.
+Round 71: Patrick :)'s Spock beats Trickster's Scissors.
+Round 72: Patrick :)'s Scissors beats Trickster's Paper.
+Round 73: Trickster's Rock beats Patrick :)'s Scissors.
+Round 74: Patrick :)'s Rock beats Trickster's Lizard.
+Round 75: Patrick :)'s Paper beats Trickster's Spock.
+Round 76: Patrick :) and Trickster both played Scissors.
+Round 77: Patrick :)'s Scissors beats Trickster's Paper.
+Round 78: Patrick :)'s Paper beats Trickster's Rock.
+Round 79: Trickster's Lizard beats Patrick :)'s Paper.
+Round 80: Patrick :) and Trickster both played Spock.
+Round 81: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 82: Trickster's Paper beats Patrick :)'s Rock.
+Round 83: Patrick :)'s Paper beats Trickster's Rock.
+Round 84: Patrick :)'s Rock beats Trickster's Lizard.
+Round 85: Trickster's Spock beats Patrick :)'s Rock.
+Round 86: Patrick :)'s Spock beats Trickster's Scissors.
+Round 87: Patrick :) and Trickster both played Paper.
+Round 88: Patrick :)'s Paper beats Trickster's Rock.
+Round 89: Patrick :)'s Rock beats Trickster's Lizard.
+Round 90: Patrick :)'s Lizard beats Trickster's Spock.
+Round 91: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 92: Patrick :)'s Scissors beats Trickster's Paper.
+Round 93: Patrick :)'s Paper beats Trickster's Rock.
+Round 94: Patrick :)'s Rock beats Trickster's Lizard.
+Round 95: Patrick :)'s Lizard beats Trickster's Spock.
+Round 96: Patrick :)'s Spock beats Trickster's Scissors.
+Round 97: Trickster's Paper beats Patrick :)'s Spock.
+Round 98: Patrick :)'s Paper beats Trickster's Rock.
+Round 99: Patrick :)'s Rock beats Trickster's Lizard.
+Round 100: Patrick :)'s Lizard beats Trickster's Spock.
+Patrick :) won 64 rounds and Trickster won 28 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 17 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Trickster's Rock beats Patrick :)'s Scissors.
+Round 2: Trickster's Lizard beats Patrick :)'s Spock.
+Round 3: Patrick :)'s Lizard beats Trickster's Spock.
+Round 4: Patrick :)'s Rock beats Trickster's Scissors.
+Round 5: Patrick :) and Trickster both played Paper.
+Round 6: Trickster's Rock beats Patrick :)'s Scissors.
+Round 7: Trickster's Lizard beats Patrick :)'s Spock.
+Round 8: Patrick :)'s Lizard beats Trickster's Spock.
+Round 9: Patrick :)'s Rock beats Trickster's Scissors.
+Round 10: Patrick :) and Trickster both played Paper.
+Round 11: Patrick :)'s Paper beats Trickster's Rock.
+Round 12: Patrick :)'s Rock beats Trickster's Lizard.
+Round 13: Trickster's Spock beats Patrick :)'s Rock.
+Round 14: Patrick :)'s Spock beats Trickster's Scissors.
+Round 15: Patrick :)'s Scissors beats Trickster's Paper.
+Round 16: Patrick :)'s Paper beats Trickster's Rock.
+Round 17: Patrick :)'s Rock beats Trickster's Lizard.
+Round 18: Patrick :)'s Lizard beats Trickster's Spock.
+Round 19: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 20: Trickster's Paper beats Patrick :)'s Spock.
+Round 21: Patrick :)'s Paper beats Trickster's Rock.
+Round 22: Patrick :)'s Rock beats Trickster's Lizard.
+Round 23: Patrick :)'s Lizard beats Trickster's Spock.
+Round 24: Patrick :)'s Spock beats Trickster's Scissors.
+Round 25: Trickster's Paper beats Patrick :)'s Spock.
+Round 26: Patrick :)'s Paper beats Trickster's Rock.
+Round 27: Patrick :)'s Rock beats Trickster's Lizard.
+Round 28: Patrick :)'s Lizard beats Trickster's Spock.
+Round 29: Patrick :)'s Spock beats Trickster's Scissors.
+Round 30: Patrick :)'s Scissors beats Trickster's Paper.
+Round 31: Trickster's Rock beats Patrick :)'s Scissors.
+Round 32: Patrick :) and Trickster both played Lizard.
+Round 33: Trickster's Spock beats Patrick :)'s Rock.
+Round 34: Trickster's Scissors beats Patrick :)'s Paper.
+Round 35: Patrick :)'s Scissors beats Trickster's Paper.
+Round 36: Patrick :)'s Paper beats Trickster's Rock.
+Round 37: Trickster's Lizard beats Patrick :)'s Paper.
+Round 38: Trickster's Spock beats Patrick :)'s Scissors.
+Round 39: Patrick :)'s Spock beats Trickster's Scissors.
+Round 40: Patrick :)'s Lizard beats Trickster's Paper.
+Round 41: Patrick :)'s Paper beats Trickster's Rock.
+Round 42: Patrick :)'s Rock beats Trickster's Lizard.
+Round 43: Trickster's Spock beats Patrick :)'s Rock.
+Round 44: Patrick :)'s Spock beats Trickster's Scissors.
+Round 45: Trickster's Paper beats Patrick :)'s Rock.
+Round 46: Patrick :)'s Paper beats Trickster's Rock.
+Round 47: Patrick :)'s Rock beats Trickster's Lizard.
+Round 48: Patrick :)'s Lizard beats Trickster's Spock.
+Round 49: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 50: Patrick :) and Trickster both played Paper.
+Round 51: Patrick :)'s Paper beats Trickster's Rock.
+Round 52: Patrick :)'s Rock beats Trickster's Lizard.
+Round 53: Patrick :)'s Lizard beats Trickster's Spock.
+Round 54: Patrick :)'s Spock beats Trickster's Scissors.
+Round 55: Trickster's Paper beats Patrick :)'s Spock.
+Round 56: Patrick :)'s Paper beats Trickster's Rock.
+Round 57: Patrick :)'s Rock beats Trickster's Lizard.
+Round 58: Patrick :)'s Lizard beats Trickster's Spock.
+Round 59: Patrick :)'s Spock beats Trickster's Scissors.
+Round 60: Patrick :)'s Scissors beats Trickster's Paper.
+Round 61: Trickster's Rock beats Patrick :)'s Scissors.
+Round 62: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 63: Patrick :) and Trickster both played Spock.
+Round 64: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 65: Patrick :)'s Scissors beats Trickster's Paper.
+Round 66: Patrick :)'s Paper beats Trickster's Rock.
+Round 67: Trickster's Lizard beats Patrick :)'s Paper.
+Round 68: Trickster's Spock beats Patrick :)'s Rock.
+Round 69: Trickster's Scissors beats Patrick :)'s Paper.
+Round 70: Patrick :)'s Scissors beats Trickster's Paper.
+Round 71: Patrick :)'s Paper beats Trickster's Rock.
+Round 72: Patrick :)'s Rock beats Trickster's Lizard.
+Round 73: Trickster's Spock beats Patrick :)'s Rock.
+Round 74: Patrick :)'s Spock beats Trickster's Scissors.
+Round 75: Trickster's Paper beats Patrick :)'s Spock.
+Round 76: Patrick :)'s Paper beats Trickster's Rock.
+Round 77: Patrick :)'s Rock beats Trickster's Lizard.
+Round 78: Patrick :)'s Lizard beats Trickster's Spock.
+Round 79: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 80: Patrick :)'s Lizard beats Trickster's Paper.
+Round 81: Patrick :)'s Paper beats Trickster's Rock.
+Round 82: Patrick :)'s Rock beats Trickster's Lizard.
+Round 83: Patrick :)'s Lizard beats Trickster's Spock.
+Round 84: Patrick :)'s Spock beats Trickster's Scissors.
+Round 85: Trickster's Paper beats Patrick :)'s Spock.
+Round 86: Patrick :)'s Paper beats Trickster's Rock.
+Round 87: Patrick :)'s Rock beats Trickster's Lizard.
+Round 88: Patrick :)'s Lizard beats Trickster's Spock.
+Round 89: Patrick :)'s Spock beats Trickster's Scissors.
+Round 90: Patrick :)'s Scissors beats Trickster's Paper.
+Round 91: Trickster's Rock beats Patrick :)'s Scissors.
+Round 92: Patrick :)'s Rock beats Trickster's Lizard.
+Round 93: Patrick :)'s Paper beats Trickster's Spock.
+Round 94: Patrick :) and Trickster both played Scissors.
+Round 95: Patrick :)'s Scissors beats Trickster's Paper.
+Round 96: Patrick :)'s Paper beats Trickster's Rock.
+Round 97: Trickster's Lizard beats Patrick :)'s Paper.
+Round 98: Patrick :) and Trickster both played Spock.
+Round 99: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 100: Trickster's Paper beats Patrick :)'s Rock.
+Patrick :) won 63 rounds and Trickster won 30 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 18 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :) and Trickster both played Scissors.
+Round 2: Trickster's Paper beats Patrick :)'s Spock.
+Round 3: Trickster's Rock beats Patrick :)'s Lizard.
+Round 4: Patrick :)'s Rock beats Trickster's Lizard.
+Round 5: Patrick :)'s Paper beats Trickster's Spock.
+Round 6: Patrick :) and Trickster both played Scissors.
+Round 7: Trickster's Paper beats Patrick :)'s Spock.
+Round 8: Patrick :)'s Paper beats Trickster's Rock.
+Round 9: Patrick :)'s Rock beats Trickster's Lizard.
+Round 10: Patrick :)'s Lizard beats Trickster's Spock.
+Round 11: Patrick :)'s Spock beats Trickster's Scissors.
+Round 12: Patrick :)'s Scissors beats Trickster's Paper.
+Round 13: Trickster's Rock beats Patrick :)'s Scissors.
+Round 14: Patrick :) and Trickster both played Lizard.
+Round 15: Trickster's Spock beats Patrick :)'s Rock.
+Round 16: Trickster's Scissors beats Patrick :)'s Paper.
+Round 17: Patrick :)'s Scissors beats Trickster's Paper.
+Round 18: Patrick :)'s Paper beats Trickster's Rock.
+Round 19: Trickster's Lizard beats Patrick :)'s Paper.
+Round 20: Trickster's Spock beats Patrick :)'s Scissors.
+Round 21: Patrick :)'s Spock beats Trickster's Scissors.
+Round 22: Patrick :)'s Lizard beats Trickster's Paper.
+Round 23: Patrick :)'s Paper beats Trickster's Rock.
+Round 24: Patrick :)'s Rock beats Trickster's Lizard.
+Round 25: Trickster's Spock beats Patrick :)'s Rock.
+Round 26: Patrick :)'s Spock beats Trickster's Scissors.
+Round 27: Trickster's Paper beats Patrick :)'s Rock.
+Round 28: Patrick :)'s Paper beats Trickster's Rock.
+Round 29: Patrick :)'s Rock beats Trickster's Lizard.
+Round 30: Patrick :)'s Lizard beats Trickster's Spock.
+Round 31: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 32: Patrick :) and Trickster both played Paper.
+Round 33: Patrick :)'s Paper beats Trickster's Rock.
+Round 34: Patrick :)'s Rock beats Trickster's Lizard.
+Round 35: Patrick :)'s Lizard beats Trickster's Spock.
+Round 36: Patrick :)'s Spock beats Trickster's Scissors.
+Round 37: Trickster's Paper beats Patrick :)'s Spock.
+Round 38: Patrick :)'s Paper beats Trickster's Rock.
+Round 39: Patrick :)'s Rock beats Trickster's Lizard.
+Round 40: Patrick :)'s Lizard beats Trickster's Spock.
+Round 41: Patrick :)'s Spock beats Trickster's Scissors.
+Round 42: Patrick :)'s Scissors beats Trickster's Paper.
+Round 43: Trickster's Rock beats Patrick :)'s Scissors.
+Round 44: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 45: Patrick :) and Trickster both played Spock.
+Round 46: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 47: Patrick :)'s Scissors beats Trickster's Paper.
+Round 48: Patrick :)'s Paper beats Trickster's Rock.
+Round 49: Trickster's Lizard beats Patrick :)'s Paper.
+Round 50: Trickster's Spock beats Patrick :)'s Rock.
+Round 51: Trickster's Scissors beats Patrick :)'s Paper.
+Round 52: Patrick :)'s Scissors beats Trickster's Paper.
+Round 53: Patrick :)'s Paper beats Trickster's Rock.
+Round 54: Patrick :)'s Rock beats Trickster's Lizard.
+Round 55: Trickster's Spock beats Patrick :)'s Rock.
+Round 56: Patrick :)'s Spock beats Trickster's Scissors.
+Round 57: Trickster's Paper beats Patrick :)'s Spock.
+Round 58: Patrick :)'s Paper beats Trickster's Rock.
+Round 59: Patrick :)'s Rock beats Trickster's Lizard.
+Round 60: Patrick :)'s Lizard beats Trickster's Spock.
+Round 61: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 62: Patrick :)'s Lizard beats Trickster's Paper.
+Round 63: Patrick :)'s Paper beats Trickster's Rock.
+Round 64: Patrick :)'s Rock beats Trickster's Lizard.
+Round 65: Patrick :)'s Lizard beats Trickster's Spock.
+Round 66: Patrick :)'s Spock beats Trickster's Scissors.
+Round 67: Trickster's Paper beats Patrick :)'s Spock.
+Round 68: Patrick :)'s Paper beats Trickster's Rock.
+Round 69: Patrick :)'s Rock beats Trickster's Lizard.
+Round 70: Patrick :)'s Lizard beats Trickster's Spock.
+Round 71: Patrick :)'s Spock beats Trickster's Scissors.
+Round 72: Patrick :)'s Scissors beats Trickster's Paper.
+Round 73: Trickster's Rock beats Patrick :)'s Scissors.
+Round 74: Patrick :)'s Rock beats Trickster's Lizard.
+Round 75: Patrick :)'s Paper beats Trickster's Spock.
+Round 76: Patrick :) and Trickster both played Scissors.
+Round 77: Patrick :)'s Scissors beats Trickster's Paper.
+Round 78: Patrick :)'s Paper beats Trickster's Rock.
+Round 79: Trickster's Lizard beats Patrick :)'s Paper.
+Round 80: Patrick :) and Trickster both played Spock.
+Round 81: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 82: Trickster's Paper beats Patrick :)'s Rock.
+Round 83: Patrick :)'s Paper beats Trickster's Rock.
+Round 84: Patrick :)'s Rock beats Trickster's Lizard.
+Round 85: Trickster's Spock beats Patrick :)'s Rock.
+Round 86: Patrick :)'s Spock beats Trickster's Scissors.
+Round 87: Patrick :) and Trickster both played Paper.
+Round 88: Patrick :)'s Paper beats Trickster's Rock.
+Round 89: Patrick :)'s Rock beats Trickster's Lizard.
+Round 90: Patrick :)'s Lizard beats Trickster's Spock.
+Round 91: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 92: Patrick :)'s Scissors beats Trickster's Paper.
+Round 93: Patrick :)'s Paper beats Trickster's Rock.
+Round 94: Patrick :)'s Rock beats Trickster's Lizard.
+Round 95: Patrick :)'s Lizard beats Trickster's Spock.
+Round 96: Patrick :)'s Spock beats Trickster's Scissors.
+Round 97: Trickster's Paper beats Patrick :)'s Spock.
+Round 98: Patrick :)'s Paper beats Trickster's Rock.
+Round 99: Patrick :)'s Rock beats Trickster's Lizard.
+Round 100: Patrick :)'s Lizard beats Trickster's Spock.
+Patrick :) won 64 rounds and Trickster won 28 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 19 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Trickster's Rock beats Patrick :)'s Scissors.
+Round 2: Trickster's Lizard beats Patrick :)'s Spock.
+Round 3: Patrick :)'s Lizard beats Trickster's Spock.
+Round 4: Patrick :)'s Rock beats Trickster's Scissors.
+Round 5: Patrick :) and Trickster both played Paper.
+Round 6: Trickster's Rock beats Patrick :)'s Scissors.
+Round 7: Trickster's Lizard beats Patrick :)'s Spock.
+Round 8: Patrick :)'s Lizard beats Trickster's Spock.
+Round 9: Patrick :)'s Rock beats Trickster's Scissors.
+Round 10: Patrick :) and Trickster both played Paper.
+Round 11: Patrick :)'s Paper beats Trickster's Rock.
+Round 12: Patrick :)'s Rock beats Trickster's Lizard.
+Round 13: Trickster's Spock beats Patrick :)'s Rock.
+Round 14: Patrick :)'s Spock beats Trickster's Scissors.
+Round 15: Patrick :)'s Scissors beats Trickster's Paper.
+Round 16: Patrick :)'s Paper beats Trickster's Rock.
+Round 17: Patrick :)'s Rock beats Trickster's Lizard.
+Round 18: Patrick :)'s Lizard beats Trickster's Spock.
+Round 19: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 20: Trickster's Paper beats Patrick :)'s Spock.
+Round 21: Patrick :)'s Paper beats Trickster's Rock.
+Round 22: Patrick :)'s Rock beats Trickster's Lizard.
+Round 23: Patrick :)'s Lizard beats Trickster's Spock.
+Round 24: Patrick :)'s Spock beats Trickster's Scissors.
+Round 25: Trickster's Paper beats Patrick :)'s Spock.
+Round 26: Patrick :)'s Paper beats Trickster's Rock.
+Round 27: Patrick :)'s Rock beats Trickster's Lizard.
+Round 28: Patrick :)'s Lizard beats Trickster's Spock.
+Round 29: Patrick :)'s Spock beats Trickster's Scissors.
+Round 30: Patrick :)'s Scissors beats Trickster's Paper.
+Round 31: Trickster's Rock beats Patrick :)'s Scissors.
+Round 32: Patrick :) and Trickster both played Lizard.
+Round 33: Trickster's Spock beats Patrick :)'s Rock.
+Round 34: Trickster's Scissors beats Patrick :)'s Paper.
+Round 35: Patrick :)'s Scissors beats Trickster's Paper.
+Round 36: Patrick :)'s Paper beats Trickster's Rock.
+Round 37: Trickster's Lizard beats Patrick :)'s Paper.
+Round 38: Trickster's Spock beats Patrick :)'s Scissors.
+Round 39: Patrick :)'s Spock beats Trickster's Scissors.
+Round 40: Patrick :)'s Lizard beats Trickster's Paper.
+Round 41: Patrick :)'s Paper beats Trickster's Rock.
+Round 42: Patrick :)'s Rock beats Trickster's Lizard.
+Round 43: Trickster's Spock beats Patrick :)'s Rock.
+Round 44: Patrick :)'s Spock beats Trickster's Scissors.
+Round 45: Trickster's Paper beats Patrick :)'s Rock.
+Round 46: Patrick :)'s Paper beats Trickster's Rock.
+Round 47: Patrick :)'s Rock beats Trickster's Lizard.
+Round 48: Patrick :)'s Lizard beats Trickster's Spock.
+Round 49: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 50: Patrick :) and Trickster both played Paper.
+Round 51: Patrick :)'s Paper beats Trickster's Rock.
+Round 52: Patrick :)'s Rock beats Trickster's Lizard.
+Round 53: Patrick :)'s Lizard beats Trickster's Spock.
+Round 54: Patrick :)'s Spock beats Trickster's Scissors.
+Round 55: Trickster's Paper beats Patrick :)'s Spock.
+Round 56: Patrick :)'s Paper beats Trickster's Rock.
+Round 57: Patrick :)'s Rock beats Trickster's Lizard.
+Round 58: Patrick :)'s Lizard beats Trickster's Spock.
+Round 59: Patrick :)'s Spock beats Trickster's Scissors.
+Round 60: Patrick :)'s Scissors beats Trickster's Paper.
+Round 61: Trickster's Rock beats Patrick :)'s Scissors.
+Round 62: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 63: Patrick :) and Trickster both played Spock.
+Round 64: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 65: Patrick :)'s Scissors beats Trickster's Paper.
+Round 66: Patrick :)'s Paper beats Trickster's Rock.
+Round 67: Trickster's Lizard beats Patrick :)'s Paper.
+Round 68: Trickster's Spock beats Patrick :)'s Rock.
+Round 69: Trickster's Scissors beats Patrick :)'s Paper.
+Round 70: Patrick :)'s Scissors beats Trickster's Paper.
+Round 71: Patrick :)'s Paper beats Trickster's Rock.
+Round 72: Patrick :)'s Rock beats Trickster's Lizard.
+Round 73: Trickster's Spock beats Patrick :)'s Rock.
+Round 74: Patrick :)'s Spock beats Trickster's Scissors.
+Round 75: Trickster's Paper beats Patrick :)'s Spock.
+Round 76: Patrick :)'s Paper beats Trickster's Rock.
+Round 77: Patrick :)'s Rock beats Trickster's Lizard.
+Round 78: Patrick :)'s Lizard beats Trickster's Spock.
+Round 79: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 80: Patrick :)'s Lizard beats Trickster's Paper.
+Round 81: Patrick :)'s Paper beats Trickster's Rock.
+Round 82: Patrick :)'s Rock beats Trickster's Lizard.
+Round 83: Patrick :)'s Lizard beats Trickster's Spock.
+Round 84: Patrick :)'s Spock beats Trickster's Scissors.
+Round 85: Trickster's Paper beats Patrick :)'s Spock.
+Round 86: Patrick :)'s Paper beats Trickster's Rock.
+Round 87: Patrick :)'s Rock beats Trickster's Lizard.
+Round 88: Patrick :)'s Lizard beats Trickster's Spock.
+Round 89: Patrick :)'s Spock beats Trickster's Scissors.
+Round 90: Patrick :)'s Scissors beats Trickster's Paper.
+Round 91: Trickster's Rock beats Patrick :)'s Scissors.
+Round 92: Patrick :)'s Rock beats Trickster's Lizard.
+Round 93: Patrick :)'s Paper beats Trickster's Spock.
+Round 94: Patrick :) and Trickster both played Scissors.
+Round 95: Patrick :)'s Scissors beats Trickster's Paper.
+Round 96: Patrick :)'s Paper beats Trickster's Rock.
+Round 97: Trickster's Lizard beats Patrick :)'s Paper.
+Round 98: Patrick :) and Trickster both played Spock.
+Round 99: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 100: Trickster's Paper beats Patrick :)'s Rock.
+Patrick :) won 63 rounds and Trickster won 30 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
+Battle 20 ================================================================
+Patrick :) (TRAR) VS Trickster (CircularAI Lv.1):
+Round 1: Patrick :) and Trickster both played Scissors.
+Round 2: Trickster's Paper beats Patrick :)'s Spock.
+Round 3: Trickster's Rock beats Patrick :)'s Lizard.
+Round 4: Patrick :)'s Rock beats Trickster's Lizard.
+Round 5: Patrick :)'s Paper beats Trickster's Spock.
+Round 6: Patrick :) and Trickster both played Scissors.
+Round 7: Trickster's Paper beats Patrick :)'s Spock.
+Round 8: Patrick :)'s Paper beats Trickster's Rock.
+Round 9: Patrick :)'s Rock beats Trickster's Lizard.
+Round 10: Patrick :)'s Lizard beats Trickster's Spock.
+Round 11: Patrick :)'s Spock beats Trickster's Scissors.
+Round 12: Patrick :)'s Scissors beats Trickster's Paper.
+Round 13: Trickster's Rock beats Patrick :)'s Scissors.
+Round 14: Patrick :) and Trickster both played Lizard.
+Round 15: Trickster's Spock beats Patrick :)'s Rock.
+Round 16: Trickster's Scissors beats Patrick :)'s Paper.
+Round 17: Patrick :)'s Scissors beats Trickster's Paper.
+Round 18: Patrick :)'s Paper beats Trickster's Rock.
+Round 19: Trickster's Lizard beats Patrick :)'s Paper.
+Round 20: Trickster's Spock beats Patrick :)'s Scissors.
+Round 21: Patrick :)'s Spock beats Trickster's Scissors.
+Round 22: Patrick :)'s Lizard beats Trickster's Paper.
+Round 23: Patrick :)'s Paper beats Trickster's Rock.
+Round 24: Patrick :)'s Rock beats Trickster's Lizard.
+Round 25: Trickster's Spock beats Patrick :)'s Rock.
+Round 26: Patrick :)'s Spock beats Trickster's Scissors.
+Round 27: Trickster's Paper beats Patrick :)'s Rock.
+Round 28: Patrick :)'s Paper beats Trickster's Rock.
+Round 29: Patrick :)'s Rock beats Trickster's Lizard.
+Round 30: Patrick :)'s Lizard beats Trickster's Spock.
+Round 31: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 32: Patrick :) and Trickster both played Paper.
+Round 33: Patrick :)'s Paper beats Trickster's Rock.
+Round 34: Patrick :)'s Rock beats Trickster's Lizard.
+Round 35: Patrick :)'s Lizard beats Trickster's Spock.
+Round 36: Patrick :)'s Spock beats Trickster's Scissors.
+Round 37: Trickster's Paper beats Patrick :)'s Spock.
+Round 38: Patrick :)'s Paper beats Trickster's Rock.
+Round 39: Patrick :)'s Rock beats Trickster's Lizard.
+Round 40: Patrick :)'s Lizard beats Trickster's Spock.
+Round 41: Patrick :)'s Spock beats Trickster's Scissors.
+Round 42: Patrick :)'s Scissors beats Trickster's Paper.
+Round 43: Trickster's Rock beats Patrick :)'s Scissors.
+Round 44: Patrick :)'s Scissors beats Trickster's Lizard.
+Round 45: Patrick :) and Trickster both played Spock.
+Round 46: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 47: Patrick :)'s Scissors beats Trickster's Paper.
+Round 48: Patrick :)'s Paper beats Trickster's Rock.
+Round 49: Trickster's Lizard beats Patrick :)'s Paper.
+Round 50: Trickster's Spock beats Patrick :)'s Rock.
+Round 51: Trickster's Scissors beats Patrick :)'s Paper.
+Round 52: Patrick :)'s Scissors beats Trickster's Paper.
+Round 53: Patrick :)'s Paper beats Trickster's Rock.
+Round 54: Patrick :)'s Rock beats Trickster's Lizard.
+Round 55: Trickster's Spock beats Patrick :)'s Rock.
+Round 56: Patrick :)'s Spock beats Trickster's Scissors.
+Round 57: Trickster's Paper beats Patrick :)'s Spock.
+Round 58: Patrick :)'s Paper beats Trickster's Rock.
+Round 59: Patrick :)'s Rock beats Trickster's Lizard.
+Round 60: Patrick :)'s Lizard beats Trickster's Spock.
+Round 61: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 62: Patrick :)'s Lizard beats Trickster's Paper.
+Round 63: Patrick :)'s Paper beats Trickster's Rock.
+Round 64: Patrick :)'s Rock beats Trickster's Lizard.
+Round 65: Patrick :)'s Lizard beats Trickster's Spock.
+Round 66: Patrick :)'s Spock beats Trickster's Scissors.
+Round 67: Trickster's Paper beats Patrick :)'s Spock.
+Round 68: Patrick :)'s Paper beats Trickster's Rock.
+Round 69: Patrick :)'s Rock beats Trickster's Lizard.
+Round 70: Patrick :)'s Lizard beats Trickster's Spock.
+Round 71: Patrick :)'s Spock beats Trickster's Scissors.
+Round 72: Patrick :)'s Scissors beats Trickster's Paper.
+Round 73: Trickster's Rock beats Patrick :)'s Scissors.
+Round 74: Patrick :)'s Rock beats Trickster's Lizard.
+Round 75: Patrick :)'s Paper beats Trickster's Spock.
+Round 76: Patrick :) and Trickster both played Scissors.
+Round 77: Patrick :)'s Scissors beats Trickster's Paper.
+Round 78: Patrick :)'s Paper beats Trickster's Rock.
+Round 79: Trickster's Lizard beats Patrick :)'s Paper.
+Round 80: Patrick :) and Trickster both played Spock.
+Round 81: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 82: Trickster's Paper beats Patrick :)'s Rock.
+Round 83: Patrick :)'s Paper beats Trickster's Rock.
+Round 84: Patrick :)'s Rock beats Trickster's Lizard.
+Round 85: Trickster's Spock beats Patrick :)'s Rock.
+Round 86: Patrick :)'s Spock beats Trickster's Scissors.
+Round 87: Patrick :) and Trickster both played Paper.
+Round 88: Patrick :)'s Paper beats Trickster's Rock.
+Round 89: Patrick :)'s Rock beats Trickster's Lizard.
+Round 90: Patrick :)'s Lizard beats Trickster's Spock.
+Round 91: Trickster's Scissors beats Patrick :)'s Lizard.
+Round 92: Patrick :)'s Scissors beats Trickster's Paper.
+Round 93: Patrick :)'s Paper beats Trickster's Rock.
+Round 94: Patrick :)'s Rock beats Trickster's Lizard.
+Round 95: Patrick :)'s Lizard beats Trickster's Spock.
+Round 96: Patrick :)'s Spock beats Trickster's Scissors.
+Round 97: Trickster's Paper beats Patrick :)'s Spock.
+Round 98: Patrick :)'s Paper beats Trickster's Rock.
+Round 99: Patrick :)'s Rock beats Trickster's Lizard.
+Round 100: Patrick :)'s Lizard beats Trickster's Spock.
+Patrick :) won 64 rounds and Trickster won 28 rounds.
+Patrick :) (TRAR) defeats Trickster (CircularAI Lv.1)!
+
+
