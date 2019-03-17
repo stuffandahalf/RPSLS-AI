@@ -68,8 +68,8 @@ namespace RPSLS
 
 
         //PROPERTIES
-        private const int MOVEBUFFERSIZE = 40;      // Circular array size
-        private const int SEARCHPATTERNSIZE = 30;       // Possible max pattern length
+        private const int MOVEBUFFERSIZE = 120;      // Circular array size
+        //private const int SEARCHPATTERNSIZE = 30;       // Possible max pattern length
         private WinningScenario[] winningScenarios;
         private int moveCount;
         private CircularArray<Move> recentMoves;
@@ -138,7 +138,7 @@ namespace RPSLS
 
             WinningScenario mostLikely = null;
 
-            if (moveCount >= 10 && (mostLikely = FindPattern()) != null)    // if there is a pattern, we return the move to play winning scenario according to that pattern
+            if (moveCount >= 10 && (mostLikely = FindPattern(moveCount > recentMoves.Array.Length ? recentMoves.Array.Length : moveCount)) != null)    // if there is a pattern, we return the move to play winning scenario according to that pattern
             {
                 return MoveToPlay(mostLikely);
             }
@@ -167,9 +167,9 @@ namespace RPSLS
         /// Searches for Move patterns of a specific length by iterating through the largest possible pattern to smallest possible pattern
         /// </summary>
         /// <returns></returns>
-        private WinningScenario FindPattern()
+        private WinningScenario FindPattern(int maxPatternSize)
         {
-            for (int patternLength = SEARCHPATTERNSIZE; patternLength >= 2; patternLength--)    // itirate through assumed possible pattern lengths where 2 is the minimum pattern length
+            for (int patternLength = maxPatternSize; patternLength >= 2; patternLength--)    // itirate through assumed possible pattern lengths where 2 is the minimum pattern length
             {
                 int firstIndex = recentMoves.Newest - patternLength;    // if any of the starting indices are negative, wrap back the circular array
                 Console.WriteLine(firstIndex);

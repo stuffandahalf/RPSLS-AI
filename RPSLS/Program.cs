@@ -14,9 +14,9 @@ namespace RPSLS
         {
             var game = Game.Create<SIVA>();
 
-            game.Challenge<FavoriteOneAI>();
+            //game.Challenge<FavoriteOneAI>();
             //game.Challenge<FavoriteTwoAI>();
-            //game.Challenge<RepeaterAI>();
+            game.Challenge<RepeaterAI>();
 
             //game.PlayTournament();
 
